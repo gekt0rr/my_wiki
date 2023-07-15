@@ -35,7 +35,11 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "my_wiki": []
+    "my_wiki": [
+      "linux",
+      "linux/ubuntu_debian",
+      "linux/ubuntu_debian/Настройки сети"
+    ]
   },
   "expandedSpaces": [
     "/",
@@ -70,7 +74,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1689410779423,
+  "spacesAutoBackupLast": 1689413102054,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

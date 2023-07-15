@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md"
               }
             }
           }
@@ -157,8 +157,12 @@
   },
   "active": "bd051b16165ba0c4",
   "lastOpenFiles": [
-    "linux/linux.md",
+    "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
     "README.md",
+    "linux/ubuntu_debian/Настройки сети",
+    "linux/ubuntu_debian/Без названия.md",
+    "linux/ubuntu_debian/ubuntu_debian.md",
+    "linux/linux.md",
     "Context/spacesLastSync.log",
     "Context",
     "services",
@@ -168,7 +172,6 @@
     "linux/arch",
     "linux/rhel",
     "linux/ubuntu_debian",
-    "linux",
     "Без названия.md"
   ]
 }
