@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "brid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,7 +155,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "bd051b16165ba0c4",
+  "active": "f011b58916fd54ca",
   "lastOpenFiles": [
     "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
     "README.md",
