@@ -36,13 +36,21 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "my_wiki": [
-      "linux",
+      "linux/ubuntu_debian/Настройки сети",
+      "linux/ubuntu_debian/Настройки сети",
+      "hypervisors",
+      "docker",
       "linux/ubuntu_debian",
-      "linux/ubuntu_debian/Настройки сети"
+      "services",
+      "git",
+      "services/Nextcloud",
+      "docker",
+      "services/Nextcloud"
     ]
   },
   "expandedSpaces": [
     "/",
+    null,
     null,
     "my_wiki"
   ],
@@ -74,7 +82,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1689413102054,
+  "spacesAutoBackupLast": 1689447404866,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
