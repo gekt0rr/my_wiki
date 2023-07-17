@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/gitlab/Тюнинг.md",
+                "file": "services/Nextcloud/Установка.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/gitlab/Тюнинг.md",
+                "file": "services/Nextcloud/Установка.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/gitlab/Тюнинг.md",
+                "file": "services/Nextcloud/Установка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/gitlab/Тюнинг.md"
+                "file": "services/Nextcloud/Установка.md"
               }
             }
           }
@@ -157,9 +157,10 @@
   "active": "04a15c9b54330658",
   "lastOpenFiles": [
     "git/gitlab/Установка.md",
-    "git/gitlab/Тюнинг.md",
     "services/Nextcloud/Тюнинг.md",
     "services/Nextcloud/Установка.md",
+    "README.md",
+    "git/gitlab/Тюнинг.md",
     "services/Nextcloud/Nextcloud.md",
     "services/Nextcloud/media/media.md",
     "services/Nextcloud/media/Pasted image 20230717112215.png",
@@ -173,7 +174,6 @@
     "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
     "2023-07-17.md",
     "Без названия.canvas",
-    "README.md",
     "docker/docker.md",
     "services/Nextcloud",
     "services/Без названия.md",
