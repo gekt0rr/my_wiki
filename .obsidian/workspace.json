@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "services/Nextcloud/Тюнинг.md",
-                "mode": "source",
+                "file": "git/gitlab/Тюнинг.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 280.5
   },
   "right": {
     "id": "b66b0c811c4d9a57",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "services/Nextcloud/Тюнинг.md",
+                "file": "git/gitlab/Тюнинг.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "services/Nextcloud/Тюнинг.md",
+                "file": "git/gitlab/Тюнинг.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "services/Nextcloud/Тюнинг.md"
+                "file": "git/gitlab/Тюнинг.md"
               }
             }
           }
@@ -156,16 +156,24 @@
   },
   "active": "04a15c9b54330658",
   "lastOpenFiles": [
-    "services/Nextcloud/Установка.md",
-    "services/Nextcloud/Тюнинг.md",
+    "git/gitlab/Установка.md",
     "git/gitlab/Тюнинг.md",
+    "services/Nextcloud/Тюнинг.md",
+    "services/Nextcloud/Установка.md",
+    "services/Nextcloud/Nextcloud.md",
+    "services/Nextcloud/media/media.md",
+    "services/Nextcloud/media/Pasted image 20230717112215.png",
+    "services/Nextcloud/media/Pasted image 20230717110844.png",
+    "services/Nextcloud/media/Pasted image 20230717105423.png",
+    "services/Nextcloud/media/Pasted image 20230717105116.png",
+    "services/Nextcloud/media/Pasted image 20230717103902.png",
+    "services/Nextcloud/media",
     "git/gitlab/gitlab.md",
     "git/gitlab",
     "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
     "2023-07-17.md",
     "Без названия.canvas",
     "README.md",
-    "services/Nextcloud/Nextcloud.md",
     "docker/docker.md",
     "services/Nextcloud",
     "services/Без названия.md",
@@ -184,7 +192,6 @@
     "services",
     "git",
     "docker",
-    "hypervisors",
-    "linux/arch"
+    "hypervisors"
   ]
 }
