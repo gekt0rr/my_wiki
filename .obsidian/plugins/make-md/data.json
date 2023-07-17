@@ -41,18 +41,21 @@
       "hypervisors",
       "docker",
       "linux/ubuntu_debian",
-      "services",
-      "git",
       "services/Nextcloud",
       "docker",
-      "services/Nextcloud"
+      "services/Nextcloud",
+      "docker",
+      "services/Nextcloud",
+      "git/gitlab",
+      "git",
+      "services"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
-    null,
-    "my_wiki"
+    "my_wiki",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -82,7 +85,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1689447404866,
+  "spacesAutoBackupLast": 1689575220040,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

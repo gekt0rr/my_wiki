@@ -158,11 +158,15 @@
   "lastOpenFiles": [
     "services/Nextcloud/Установка.md",
     "services/Nextcloud/Тюнинг.md",
-    "services/Nextcloud/Nextcloud.md",
-    "Без названия.canvas",
-    "docker/docker.md",
-    "README.md",
+    "git/gitlab/Тюнинг.md",
+    "git/gitlab/gitlab.md",
+    "git/gitlab",
     "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
+    "2023-07-17.md",
+    "Без названия.canvas",
+    "README.md",
+    "services/Nextcloud/Nextcloud.md",
+    "docker/docker.md",
     "services/Nextcloud",
     "services/Без названия.md",
     "git/git.md",
@@ -181,7 +185,6 @@
     "git",
     "docker",
     "hypervisors",
-    "linux/arch",
-    "linux/rhel"
+    "linux/arch"
   ]
 }
