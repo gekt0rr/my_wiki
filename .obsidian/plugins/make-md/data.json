@@ -40,12 +40,9 @@
       "linux/ubuntu_debian/Настройки сети",
       "hypervisors",
       "git/gitlab",
-      "services/Nextcloud",
-      "docker",
-      "git",
       "git/gitlab",
-      "docker",
-      "docker"
+      "services",
+      "services/yandex.tank"
     ]
   },
   "expandedSpaces": [
@@ -82,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1689683016197,
+  "spacesAutoBackupLast": 1689768465794,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

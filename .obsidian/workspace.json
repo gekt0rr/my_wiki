@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Ngnix Proxy Manager.md",
+                "file": "services/yandex.tank/yandex.tank.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/Ngnix Proxy Manager.md",
+                "file": "services/yandex.tank/yandex.tank.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/Ngnix Proxy Manager.md",
+                "file": "services/yandex.tank/yandex.tank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/Ngnix Proxy Manager.md"
+                "file": "services/yandex.tank/yandex.tank.md"
               }
             }
           }
@@ -154,10 +154,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "04a15c9b54330658",
+  "active": "82f6bc4d7d4c2302",
   "lastOpenFiles": [
-    "docker/OnlyOffice.md",
+    "services/services.md",
+    "services/yandex.tank/yandex.tank.md",
     "docker/Ngnix Proxy Manager.md",
+    "services/yandex.tank",
+    "docker/OnlyOffice.md",
     "docker/Semaphore.md",
     "git/gitlab/Тюнинг.md",
     "README.md",
@@ -182,7 +185,6 @@
     "services/Без названия.md",
     "git/git.md",
     "hypervisors/hypervisors.md",
-    "services/services.md",
     "linux/ubuntu_debian/Настройки сети/Настройки сети.md",
     "Без названия.md",
     "2023-07-15.md",
@@ -194,7 +196,6 @@
     "Context",
     "services",
     "git",
-    "docker",
-    "hypervisors"
+    "docker"
   ]
 }
