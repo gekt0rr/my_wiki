@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "services/Nextcloud/Установка.md",
+                "file": "docker/Ngnix Proxy Manager.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "services/Nextcloud/Установка.md",
+                "file": "docker/Ngnix Proxy Manager.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "services/Nextcloud/Установка.md",
+                "file": "docker/Ngnix Proxy Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "services/Nextcloud/Установка.md"
+                "file": "docker/Ngnix Proxy Manager.md"
               }
             }
           }
@@ -156,12 +156,17 @@
   },
   "active": "04a15c9b54330658",
   "lastOpenFiles": [
-    "git/gitlab/Установка.md",
+    "docker/OnlyOffice.md",
+    "docker/Ngnix Proxy Manager.md",
+    "docker/Semaphore.md",
+    "git/gitlab/Тюнинг.md",
+    "README.md",
     "services/Nextcloud/Тюнинг.md",
     "services/Nextcloud/Установка.md",
-    "README.md",
-    "git/gitlab/Тюнинг.md",
     "services/Nextcloud/Nextcloud.md",
+    "docker/docker.md",
+    "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
+    "git/gitlab/Установка.md",
     "services/Nextcloud/media/media.md",
     "services/Nextcloud/media/Pasted image 20230717112215.png",
     "services/Nextcloud/media/Pasted image 20230717110844.png",
@@ -171,10 +176,8 @@
     "services/Nextcloud/media",
     "git/gitlab/gitlab.md",
     "git/gitlab",
-    "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
     "2023-07-17.md",
     "Без названия.canvas",
-    "docker/docker.md",
     "services/Nextcloud",
     "services/Без названия.md",
     "git/git.md",

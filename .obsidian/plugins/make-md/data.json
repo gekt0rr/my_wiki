@@ -38,11 +38,14 @@
     "my_wiki": [
       "linux/ubuntu_debian/Настройки сети",
       "linux/ubuntu_debian/Настройки сети",
-      "services",
-      "docker",
       "hypervisors",
       "git/gitlab",
-      "services/Nextcloud"
+      "services/Nextcloud",
+      "docker",
+      "git",
+      "git/gitlab",
+      "docker",
+      "docker"
     ]
   },
   "expandedSpaces": [
@@ -79,7 +82,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1689585367054,
+  "spacesAutoBackupLast": 1689683016197,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
