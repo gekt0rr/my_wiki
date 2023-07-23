@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "программирование/flutter/библиотеки/Flutter_typeahead.md",
+                "file": "программирование/flutter/Работа с API во Flutter.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "программирование/flutter/библиотеки/Flutter_typeahead.md",
+                "file": "программирование/flutter/Работа с API во Flutter.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "программирование/flutter/библиотеки/Flutter_typeahead.md",
+                "file": "программирование/flutter/Работа с API во Flutter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "программирование/flutter/библиотеки/Flutter_typeahead.md"
+                "file": "программирование/flutter/Работа с API во Flutter.md"
               }
             }
           }
@@ -157,8 +157,10 @@
   },
   "active": "04a15c9b54330658",
   "lastOpenFiles": [
-    "программирование/flutter/библиотеки/Flutter_form_builder.md",
     "программирование/flutter/библиотеки/Flutter_typeahead.md",
+    "программирование/flutter/библиотеки/Flutter_form_builder.md",
+    "программирование/flutter/Работа с API во Flutter.md",
+    "программирование/flutter/библиотеки/библиотеки.md",
     "services/yandex.tank/yandex.tank.md",
     "программирование/flutter/библиотеки",
     "программирование/flutter",
@@ -194,8 +196,6 @@
     "linux/ubuntu_debian/Настройки сети/Настройки сети.md",
     "Без названия.md",
     "2023-07-15.md",
-    "linux/ubuntu_debian/ubuntu_debian.md",
-    "linux/linux.md",
     "linux/ubuntu_debian/Настройки сети",
     "Context/spacesLastSync.log",
     "Context"

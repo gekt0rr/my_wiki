@@ -40,7 +40,10 @@
       "linux/ubuntu_debian/Настройки сети",
       "git/gitlab",
       "git/gitlab",
-      "services/yandex.tank"
+      "services/yandex.tank",
+      "программирование",
+      "программирование/flutter",
+      "программирование/flutter/библиотеки"
     ]
   },
   "expandedSpaces": [
@@ -77,7 +80,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1689929694616,
+  "spacesAutoBackupLast": 1690011805016,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

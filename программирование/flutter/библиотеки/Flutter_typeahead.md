@@ -158,6 +158,135 @@ The `validator`обратный вызов может использоватьс
 
 The `transitionBuilder`позволяет настроить анимацию ящик для предложений. В этом примере мы возвращаем поле предложений. немедленно, что означает, что нам не нужна анимация.
 
+### Мой пример 3
+В этом примере мы: 
+- создаем переменную `_formKey` которая хранит состояние формы
+- создаем контроллеры `final TextEditingController _diameterController = TextEditingController();` для полей ввода, которые будут принимать выбранные значения
+- используем валидацию 
+```dart
+validator: FormBuilderValidators.compose([
+    FormBuilderValidators.required(),
+    FormBuilderValidators.email(),
+])),
+```
+полный пример кода
+```dart
+class ProizvodstvoForm extends StatefulWidget {
+  const ProizvodstvoForm({Key? key}) : super(key: key);
+
+  @override
+  State<ProizvodstvoForm> createState() => _ProizvodstvoFormState();
+}
+
+class _ProizvodstvoFormState extends State<ProizvodstvoForm> {
+  final _formKey = GlobalKey<FormBuilderState>();
+  final TextEditingController _diameterController = TextEditingController();
+  final TextEditingController _materialController = TextEditingController();
+  final TextEditingController _thicknessController = TextEditingController();
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: Center(
+        child: FormBuilder(
+          key: _formKey,
+          child: Padding(
+            padding: const EdgeInsets.all(50.0),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                TypeAheadFormField(
+                    textFieldConfiguration: TextFieldConfiguration(
+                      decoration: InputDecoration(labelText: 'Диаметр'),
+                      controller: _diameterController,
+                    ),
+                    suggestionsCallback: (pattern) {
+                      return ['10', '20', '30']
+                          .where((item) => item.contains(pattern));
+                    },
+                    itemBuilder: (context, suggestion) {
+                      return ListTile(
+                        title: Text(suggestion),
+                      );
+                    },
+                    onSuggestionSelected: (suggestion) {
+                      _diameterController.text = suggestion;
+                    },
+                    validator: FormBuilderValidators.compose([
+                      FormBuilderValidators.required(),
+                      FormBuilderValidators.email(),
+                    ])),
+                TypeAheadFormField(
+                  textFieldConfiguration: TextFieldConfiguration(
+                    decoration: InputDecoration(labelText: 'Материал'),
+                    controller: _materialController,
+                  ),
+                  suggestionsCallback: (pattern) {
+                    return ['Сталь', 'Алюминий', 'Титан']
+                        .where((item) => item.contains(pattern));
+                  },
+                  itemBuilder: (context, suggestion) {
+                    return ListTile(
+                      title: Text(suggestion),
+                    );
+                  },
+                  onSuggestionSelected: (suggestion) {
+                    _materialController.text = suggestion;
+                  },
+                ),
+                TypeAheadFormField(
+                  textFieldConfiguration: TextFieldConfiguration(
+                    decoration: InputDecoration(labelText: 'Толщина'),
+                    controller: _thicknessController,
+                  ),
+                  suggestionsCallback: (pattern) {
+                    return ['10', '20', '30']
+                        .where((item) => item.contains(pattern));
+                  },
+                  itemBuilder: (context, suggestion) {
+                    return ListTile(
+                      title: Text(suggestion),
+                    );
+                  },
+                  onSuggestionSelected: (suggestion) {
+                    _thicknessController.text = suggestion;
+                  },
+                ),
+                const SizedBox(height: 30),
+                // кнопка сброса
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    ElevatedButton(
+                      onPressed: () {
+                        _formKey.currentState!.reset();
+                      },
+                      child: const Text('Reset'),
+                    ),
+                    // отступ
+                    const SizedBox(width: 15),
+                    // кнопка отправки
+                    ElevatedButton(
+                      onPressed: () {
+                        if (_formKey.currentState!.saveAndValidate()) {
+                          print(_formKey.currentState!.value['email']);
+                          print(_formKey.currentState!.value['password']);
+                        }
+                      },
+                      child: const Text('Save'),
+                    ),
+                  ],
+                ),
+              ],
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+```
 ### Материал с альтернативной архитектурой макета:[](https://pub.dev/packages/flutter_typeahead#material-with-alternative-layout-architecture)
 
 По умолчанию TypeAhead использует `ListView`отображать элементы, созданные `itemBuilder`. Если вы укажете `layoutArchitecture`компонент, он будет использовать этот компонент вместо этого. Например, вот как мы визуализируем элементы в сетке, используя стандартный `GridView`:
