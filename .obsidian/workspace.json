@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Общее/Полезные команды linux.md",
+                "file": "services/ftp + web.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Общее/Полезные команды linux.md",
+                "file": "services/ftp + web.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Общее/Полезные команды linux.md",
+                "file": "services/ftp + web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Общее/Полезные команды linux.md"
+                "file": "services/ftp + web.md"
               }
             }
           }
@@ -157,6 +157,8 @@
   },
   "active": "04a15c9b54330658",
   "lastOpenFiles": [
+    "services/proxmox.md",
+    "services/ftp + web.md",
     "linux/Общее/Полезные команды linux.md",
     "docker/OpenVas.md",
     "docker/Semaphore.md",
@@ -170,7 +172,6 @@
     "docker/Postgrest.md",
     "docker/Postgres.md",
     "docker/Heimdall.md",
-    "services/ftp + web.md",
     "services/Nextcloud/Тюнинг.md",
     "services/Nextcloud/media/Pasted image 20230717112215.png",
     "services/Nextcloud/media/Pasted image 20230717110844.png",
@@ -189,7 +190,6 @@
     "git/gitlab/Установка.md",
     "программирование/flutter/Работа с API во Flutter.md",
     "программирование/flutter/библиотеки/Flutter_typeahead.md",
-    "программирование/flutter/библиотеки/Flutter_form_builder.md",
     "программирование/flutter/библиотеки",
     "программирование/flutter",
     "программирование",

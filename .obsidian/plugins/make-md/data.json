@@ -39,8 +39,11 @@
       "программирование/flutter",
       "linux/rhel/Автоустановка ОС",
       "linux/rhel/Автоустановка ОС",
-      "linux",
-      "linux/Общее"
+      "linux/Общее",
+      "services",
+      "services/yandex.tank",
+      "services/yandex.tank",
+      "services/yandex.tank"
     ]
   },
   "expandedSpaces": [
@@ -77,7 +80,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1690284521196,
+  "spacesAutoBackupLast": 1690287620899,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
