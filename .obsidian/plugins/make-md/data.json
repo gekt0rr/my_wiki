@@ -38,13 +38,10 @@
     "my_wiki": [
       "linux/ubuntu_debian/Настройки сети",
       "linux/ubuntu_debian/Настройки сети",
-      "git/gitlab",
-      "git/gitlab",
       "services/yandex.tank",
-      "программирование",
-      "программирование/flutter",
-      "программирование/flutter/библиотеки",
-      "docker"
+      "docker",
+      "docker",
+      "программирование/flutter"
     ]
   },
   "expandedSpaces": [
@@ -81,7 +78,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1690011805016,
+  "spacesAutoBackupLast": 1690276220937,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "программирование/flutter/Работа с API во Flutter.md",
+                "file": "docker/Heimdall.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "программирование/flutter/Работа с API во Flutter.md",
+                "file": "docker/Heimdall.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "программирование/flutter/Работа с API во Flutter.md",
+                "file": "docker/Heimdall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "программирование/flutter/Работа с API во Flutter.md"
+                "file": "docker/Heimdall.md"
               }
             }
           }
@@ -155,11 +155,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "04a15c9b54330658",
+  "active": "cf154a1d62a74610",
   "lastOpenFiles": [
-    "программирование/flutter/библиотеки/Flutter_typeahead.md",
+    "docker/Postgres.md",
+    "docker/Heimdall.md",
+    "docker/Postgrest.md",
+    "docker/WordPress.md",
+    "docker/Semaphore.md",
     "docker/OnlyOffice.md",
+    "docker/Ngnix Proxy Manager.md",
+    "git/gitlab/Тюнинг.md",
+    "git/gitlab/Установка.md",
     "программирование/flutter/Работа с API во Flutter.md",
+    "программирование/flutter/библиотеки/Flutter_typeahead.md",
     "программирование/flutter/библиотеки/Flutter_form_builder.md",
     "программирование/flutter/библиотеки/библиотеки.md",
     "services/yandex.tank/yandex.tank.md",
@@ -167,17 +175,13 @@
     "программирование/flutter",
     "программирование",
     "services/services.md",
-    "docker/Ngnix Proxy Manager.md",
     "services/yandex.tank",
-    "docker/Semaphore.md",
-    "git/gitlab/Тюнинг.md",
     "README.md",
     "services/Nextcloud/Тюнинг.md",
     "services/Nextcloud/Установка.md",
     "services/Nextcloud/Nextcloud.md",
     "docker/docker.md",
     "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
-    "git/gitlab/Установка.md",
     "services/Nextcloud/media/media.md",
     "services/Nextcloud/media/Pasted image 20230717112215.png",
     "services/Nextcloud/media/Pasted image 20230717110844.png",
@@ -192,10 +196,6 @@
     "services/Nextcloud",
     "services/Без названия.md",
     "git/git.md",
-    "hypervisors/hypervisors.md",
-    "linux/ubuntu_debian/Настройки сети/Настройки сети.md",
-    "Без названия.md",
-    "2023-07-15.md",
     "linux/ubuntu_debian/Настройки сети",
     "Context/spacesLastSync.log",
     "Context"
