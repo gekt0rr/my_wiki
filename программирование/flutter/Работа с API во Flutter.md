@@ -100,7 +100,7 @@ class Zagotovka2Api {
 
 
 ## Отображение данных в коде
-После получения данных и их обработке мы можем вывести и в коде в виде различных виджетов.
+После получения данных и их обработке мы можем вывести их в коде в виде различных виджетов.
 ### Вывод в виде списка ListView
 ```dart
 import 'package:flutter/material.dart';
@@ -243,7 +243,10 @@ suggestionsCallback: (pattern) async {
 
 Здесь мы получаем список объектов `Zagotovka2Model` из вашего API-сервиса, фильтруем его по заданному шаблону `pattern` и возвращаем только значения поля `material` в виде списка строк.
 
-В случае когда мы работаем с api иногда требуется дополнительно обработать значения, оставив только уникальные. Чтобы отображать только уникальные значения в выпадающем списке, вам нужно изменить метод `suggestionsCallback` следующим образом:
+> [!NOTE]
+> В случае когда мы работаем с api иногда требуется дополнительно обработать значения, оставив только **уникальные**. 
+
+Чтобы отображать только уникальные значения в выпадающем списке, вам нужно изменить метод `suggestionsCallback` следующим образом:
 ```dart
 suggestionsCallback: (pattern) async {
   final zagotovka2ModelList = await zagotovka2Api.getZagotovka2Model();
@@ -291,6 +294,224 @@ onSuggestionSelected: (suggestion) {
 ```
 
 Эти изменения должны помочь избежать ошибки и правильно отображать значения поля `diametrZagotovki` в выпадающем списке.
+
+> [!NOTE]
+> Так же бывают случаи когда нужно фильтровать данные в полях на основе данных введенных в других полях, при этом должна быть возможность начинать заполнение с любого поля в любой последовательности.
+
+Для того, чтобы обеспечить универсальность фильтрации нужно фильтровать список моделей последовательно по каждому полю. Для этого можно использовать переменную `filteredModels`, которая будет хранить отфильтрованные модели после каждого шага.
+```dart
+class _ProizvodstvoFormState extends State<ProizvodstvoForm> {
+  final _formKey = GlobalKey<FormBuilderState>();
+  final zagotovka2Api = Zagotovka2Api();
+  final TextEditingController _diameterController = TextEditingController();
+  final TextEditingController _materialController = TextEditingController();
+  final TextEditingController _thicknessController = TextEditingController();
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: Center(
+        child: FormBuilder(
+          key: _formKey,
+          child: Padding(
+            padding: const EdgeInsets.all(50.0),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                // фильтр по материалу
+                TypeAheadFormField(
+                  textFieldConfiguration: TextFieldConfiguration(
+                    decoration: InputDecoration(labelText: 'Материал'),
+                    controller: _materialController,
+                  ),
+                  suggestionsCallback: (pattern) async {
+                    final zagotovka2ModelList =
+                        await zagotovka2Api.getZagotovka2Model();
+                    var filteredModels = zagotovka2ModelList!;
+
+                    if (_diameterController.text.isNotEmpty) {
+                      filteredModels = filteredModels.where((model) =>
+                          model.diametrZagotovki.toString() ==
+                          _diameterController.text);
+                    }
+
+                    if (_thicknessController.text.isNotEmpty) {
+                      filteredModels = filteredModels.where((model) =>
+                          model.tolshinaStenki.toString() ==
+                          _thicknessController.text);
+                    }
+
+                    filteredModels = filteredModels.where((model) =>
+                        model.material.contains(pattern)).toList();
+
+                    final uniqueMaterials = filteredModels
+                        .map((model) => model.material)
+                        .toSet()
+                        .toList();
+
+                    return uniqueMaterials
+                        .where((material) => material.contains(pattern))
+                        .toList();
+                  },
+                  itemBuilder: (context, suggestion) {
+                    return ListTile(
+                      title: Text(suggestion),
+                    );
+                  },
+                  onSuggestionSelected: (suggestion) {
+                    _materialController.text = suggestion as String;
+                  },
+                ),
+                // фильтр по диаметру
+                TypeAheadFormField(
+                  textFieldConfiguration: TextFieldConfiguration(
+                    decoration: InputDecoration(labelText: 'Диаметр'),
+                    controller: _diameterController,
+                  ),
+                  suggestionsCallback: (pattern) async {
+                    final zagotovka2ModelList =
+                        await zagotovka2Api.getZagotovka2Model();
+                    var filteredModels = zagotovka2ModelList!;
+
+                    if (_materialController.text.isNotEmpty) {
+                      filteredModels = filteredModels.where((model) =>
+                          model.material == _materialController.text);
+                    }
+
+                    if (_thicknessController.text.isNotEmpty) {
+                      filteredModels = filteredModels.where((model) =>
+                          model.tolshinaStenki.toString() ==
+                          _thicknessController.text);
+                    }
+
+                    filteredModels = filteredModels.where((model) =>
+                        model.diametrZagotovki.toString().contains(pattern))
+                        .toList();
+
+                    final uniqueDiameters = filteredModels
+                        .map((model) => model.diametrZagotovki.toString())
+                        .toSet()
+                        .toList();
+
+                    return uniqueDiameters
+                        .where((diameter) => diameter.contains(pattern))
+                        .toList();
+                  },
+                  itemBuilder: (context, suggestion) {
+                    return ListTile(
+                      title: Text(suggestion),
+                    );
+                  },
+                  onSuggestionSelected: (suggestion) {
+                    _diameterController.text = suggestion as String;
+                  },
+                ),
+                // фильтр по толщине стенки
+                TypeAheadFormField(
+                  textFieldConfiguration: TextFieldConfiguration(
+                    decoration: InputDecoration(labelText: 'Толщина стенки'),
+                    controller: _thicknessController,
+                  ),
+                  suggestionsCallback: (pattern) async {
+                    final zagotovka2ModelList =
+                        await zagotovka2Api.getZagotovka2Model();
+                    var filteredModels = zagotovka2ModelList!;
+
+                    if (_materialController.text.isNotEmpty) {
+                      filteredModels = filteredModels.where((model) =>
+                          model.material == _materialController.text);
+                    }
+
+                    if (_diameterController.text.isNotEmpty) {
+                      filteredModels =filteredModels.where((model) =>
+                          model.diametrZagotovki.toString() ==
+                          _diameterController.text);
+                    }
+
+                    filteredModels = filteredModels.where((model) =>
+                        model.tolshinaStenki.toString().contains(pattern))
+                        .toList();
+
+                    final uniqueThicknesses = filteredModels
+                        .map((model) => model.tolshinaStenki.toString())
+                        .toSet()
+                        .toList();
+
+                    return uniqueThicknesses
+                        .where((thickness) => thickness.contains(pattern))
+                        .toList();
+                  },
+                  itemBuilder: (context, suggestion) {
+                    return ListTile(
+                      title: Text(suggestion),
+                    );
+                  },
+                  onSuggestionSelected: (suggestion) {
+                    _thicknessController.text = suggestion as String;
+                  },
+                ),
+              ],
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+```
+отметим несколько ключевых моментов
+1. Проверка на наличие значения в поле
+
+В  коде используются три текстовых поля для фильтрации: `_materialController`, `_diameterController` и `_thicknessController`. Чтобы проверить, было ли введено значение в поле, мы используем метод `isNotEmpty`, который возвращает `true`, если значение в поле не пустое, и `false` в противном случае.
+
+```dart
+if (_diameterController.text.isNotEmpty) {
+  // делаем фильтрацию по диаметру
+}
+```
+
+2. Цикл if со следующей логикой
+
+Для обеспечения универсальности фильтрации мы используем переменную `filteredModels`, которая хранит список моделей, отфильтрованных после каждого шага. В цикле `if` мы проверяем, было ли введено значение в предыдущее поле фильтрации, и если да, то мы фильтруем список моделей только по текущему полю. Если значение не было введено, то пропускаем этот шаг фильтрации.
+
+
+```dart
+if (_materialController.text.isNotEmpty) {
+  filteredModels = filteredModels.where((model) =>
+      model.material == _materialController.text);
+}
+
+if (_diameterController.text.isNotEmpty) {
+  filteredModels = filteredModels.where((model) =>
+      model.diametrZagotovki.toString() ==
+      _diameterController.text);
+}
+
+if (_thicknessController.text.isNotEmpty) {
+  filteredModels = filteredModels.where((model) =>
+      model.tolshinaStenki.toString() ==
+      _thicknessController.text);
+}
+```
+
+3. Использование методов `toList()`, `toSet()` и `map()`
+
+Код использует несколько методов для работы со списками. Вот что они делают:
+
+- `toList()` - преобразует коллекцию в список.
+- `toSet()` - преобразует коллекцию в множество (с уникальными элементами).
+- `map()` - применяет функцию к каждому элементу коллекции и возвращает список результатов.
+
+В  коде метод `map()` используется для преобразования списка моделей в список значений определенного поля, например, значения поля `material`. Метод `toSet()` используется для удаления повторяющихся элементов из списка, а метод `toList()` - для преобразования множества обратно в список.
+
+```dart
+final uniqueMaterials = filteredModels
+    .map((model) => model.material)
+    .toSet()
+    .toList();
+```
+
+
 ## Обработка ошибок
 
 Нужно обрабатывать различные ошибки:
