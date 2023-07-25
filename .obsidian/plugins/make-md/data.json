@@ -39,7 +39,7 @@
       "программирование/flutter",
       "linux/rhel/Автоустановка ОС",
       "linux/rhel/Автоустановка ОС",
-      "linux/Общее",
+      "linux",
       "linux/Общее"
     ]
   },
@@ -77,7 +77,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1690283785050,
+  "spacesAutoBackupLast": 1690284521196,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

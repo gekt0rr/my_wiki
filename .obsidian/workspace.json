@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/OpenVas.md",
+                "file": "linux/Общее/Полезные команды linux.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/OpenVas.md",
+                "file": "linux/Общее/Полезные команды linux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/OpenVas.md",
+                "file": "linux/Общее/Полезные команды linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/OpenVas.md"
+                "file": "linux/Общее/Полезные команды linux.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "04a15c9b54330658",
   "lastOpenFiles": [
-    "docker/Semaphore.md",
+    "linux/Общее/Полезные команды linux.md",
     "docker/OpenVas.md",
+    "docker/Semaphore.md",
     "linux/Общее/Общее.md",
     "linux/ubuntu_debian/Автоустановка ОС deb.md",
     "linux/rhel/Автоустановка ОС rpm.md",
@@ -189,7 +190,6 @@
     "программирование/flutter/Работа с API во Flutter.md",
     "программирование/flutter/библиотеки/Flutter_typeahead.md",
     "программирование/flutter/библиотеки/Flutter_form_builder.md",
-    "программирование/flutter/библиотеки/библиотеки.md",
     "программирование/flutter/библиотеки",
     "программирование/flutter",
     "программирование",
