@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Heimdall.md",
+                "file": "linux/rhel/Автоустановка ОС.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/Heimdall.md",
+                "file": "linux/rhel/Автоустановка ОС.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/Heimdall.md",
+                "file": "linux/rhel/Автоустановка ОС.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/Heimdall.md"
+                "file": "linux/rhel/Автоустановка ОС.md"
               }
             }
           }
@@ -155,15 +155,32 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "cf154a1d62a74610",
+  "active": "04a15c9b54330658",
   "lastOpenFiles": [
+    "services/ftp + web.md",
+    "services/Nextcloud/Тюнинг.md",
+    "services/Nextcloud/media/Pasted image 20230717112215.png",
+    "services/Nextcloud/media/Pasted image 20230717110844.png",
+    "services/Nextcloud/media/Pasted image 20230717105423.png",
+    "services/Nextcloud/media/Pasted image 20230717105116.png",
+    "services/Nextcloud/media/Pasted image 20230717103902.png",
+    "linux/rhel/Автоустановка ОС.md",
+    "linux/rhel/Автоустановка ОС/Автоустановка ОС.md",
+    "linux/ubuntu_debian/Автоустановка ОС.md",
+    "linux/rhel/Автоустановка ОС",
+    "linux/Общее/Работа с дисками.md",
+    "linux/Общее/Работа с сертификатами.md",
+    "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
+    "linux/rhel/rhel.md",
+    "linux/arch/Настройки GPU.md",
+    "linux/Общее",
+    "docker/Ngnix Proxy Manager.md",
+    "docker/OnlyOffice.md",
+    "docker/Semaphore.md",
+    "docker/WordPress.md",
+    "docker/Postgrest.md",
     "docker/Postgres.md",
     "docker/Heimdall.md",
-    "docker/Postgrest.md",
-    "docker/WordPress.md",
-    "docker/Semaphore.md",
-    "docker/OnlyOffice.md",
-    "docker/Ngnix Proxy Manager.md",
     "git/gitlab/Тюнинг.md",
     "git/gitlab/Установка.md",
     "программирование/flutter/Работа с API во Flutter.md",
@@ -177,27 +194,10 @@
     "services/services.md",
     "services/yandex.tank",
     "README.md",
-    "services/Nextcloud/Тюнинг.md",
-    "services/Nextcloud/Установка.md",
-    "services/Nextcloud/Nextcloud.md",
-    "docker/docker.md",
-    "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
-    "services/Nextcloud/media/media.md",
-    "services/Nextcloud/media/Pasted image 20230717112215.png",
-    "services/Nextcloud/media/Pasted image 20230717110844.png",
-    "services/Nextcloud/media/Pasted image 20230717105423.png",
-    "services/Nextcloud/media/Pasted image 20230717105116.png",
-    "services/Nextcloud/media/Pasted image 20230717103902.png",
     "services/Nextcloud/media",
-    "git/gitlab/gitlab.md",
     "git/gitlab",
-    "2023-07-17.md",
     "Без названия.canvas",
     "services/Nextcloud",
-    "services/Без названия.md",
-    "git/git.md",
-    "linux/ubuntu_debian/Настройки сети",
-    "Context/spacesLastSync.log",
-    "Context"
+    "linux/ubuntu_debian/Настройки сети"
   ]
 }

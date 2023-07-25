@@ -67,7 +67,7 @@ dns-nameservers 8.8.8.8 8.8.4.4
 ```
 sudo systemctl restart networking.service
 ```
-## Aliace (несколько адресов на 1-ом интервейсе)
+## Aliace (несколько адресов на 1-ом интерфейсе)
 ## Vlan's
 ## Bond (агрегация каналов)
 ## NAT (проброс портов)
