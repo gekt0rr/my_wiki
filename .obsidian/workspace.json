@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/rhel/Автоустановка ОС.md",
+                "file": "docker/OpenVas.md",
                 "mode": "preview",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sema",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/rhel/Автоустановка ОС.md",
+                "file": "docker/OpenVas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/rhel/Автоустановка ОС.md",
+                "file": "docker/OpenVas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/rhel/Автоустановка ОС.md"
+                "file": "docker/OpenVas.md"
               }
             }
           }
@@ -157,6 +157,18 @@
   },
   "active": "04a15c9b54330658",
   "lastOpenFiles": [
+    "docker/Semaphore.md",
+    "docker/OpenVas.md",
+    "linux/Общее/Общее.md",
+    "linux/ubuntu_debian/Автоустановка ОС deb.md",
+    "linux/rhel/Автоустановка ОС rpm.md",
+    "docker/Pyhole.md",
+    "docker/Ngnix Proxy Manager.md",
+    "docker/OnlyOffice.md",
+    "docker/WordPress.md",
+    "docker/Postgrest.md",
+    "docker/Postgres.md",
+    "docker/Heimdall.md",
     "services/ftp + web.md",
     "services/Nextcloud/Тюнинг.md",
     "services/Nextcloud/media/Pasted image 20230717112215.png",
@@ -164,9 +176,7 @@
     "services/Nextcloud/media/Pasted image 20230717105423.png",
     "services/Nextcloud/media/Pasted image 20230717105116.png",
     "services/Nextcloud/media/Pasted image 20230717103902.png",
-    "linux/rhel/Автоустановка ОС.md",
     "linux/rhel/Автоустановка ОС/Автоустановка ОС.md",
-    "linux/ubuntu_debian/Автоустановка ОС.md",
     "linux/rhel/Автоустановка ОС",
     "linux/Общее/Работа с дисками.md",
     "linux/Общее/Работа с сертификатами.md",
@@ -174,26 +184,16 @@
     "linux/rhel/rhel.md",
     "linux/arch/Настройки GPU.md",
     "linux/Общее",
-    "docker/Ngnix Proxy Manager.md",
-    "docker/OnlyOffice.md",
-    "docker/Semaphore.md",
-    "docker/WordPress.md",
-    "docker/Postgrest.md",
-    "docker/Postgres.md",
-    "docker/Heimdall.md",
     "git/gitlab/Тюнинг.md",
     "git/gitlab/Установка.md",
     "программирование/flutter/Работа с API во Flutter.md",
     "программирование/flutter/библиотеки/Flutter_typeahead.md",
     "программирование/flutter/библиотеки/Flutter_form_builder.md",
     "программирование/flutter/библиотеки/библиотеки.md",
-    "services/yandex.tank/yandex.tank.md",
     "программирование/flutter/библиотеки",
     "программирование/flutter",
     "программирование",
-    "services/services.md",
     "services/yandex.tank",
-    "README.md",
     "services/Nextcloud/media",
     "git/gitlab",
     "Без названия.canvas",
