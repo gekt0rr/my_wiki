@@ -40,10 +40,11 @@
       "linux/rhel/Автоустановка ОС",
       "linux/rhel/Автоустановка ОС",
       "linux/Общее",
-      "services",
       "services/yandex.tank",
       "services/yandex.tank",
-      "services/yandex.tank"
+      "services/yandex.tank",
+      "docker",
+      "services"
     ]
   },
   "expandedSpaces": [
