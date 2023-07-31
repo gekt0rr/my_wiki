@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "services/ftp + web.md",
+                "file": "linux/ubuntu_debian/Автоустановка ОС deb.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "services/ftp + web.md",
+                "file": "linux/ubuntu_debian/Автоустановка ОС deb.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "services/ftp + web.md",
+                "file": "linux/ubuntu_debian/Автоустановка ОС deb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "services/ftp + web.md"
+                "file": "linux/ubuntu_debian/Автоустановка ОС deb.md"
               }
             }
           }
@@ -157,8 +157,11 @@
   },
   "active": "04a15c9b54330658",
   "lastOpenFiles": [
-    "docker/Postgrest.md",
+    "программирование/flutter/библиотеки/Flutter_typeahead.md",
+    "программирование/программирование.md",
+    "linux/ubuntu_debian/Автоустановка ОС deb.md",
     "services/ftp + web.md",
+    "docker/Postgrest.md",
     "docker/OnlyOffice.md",
     "README.md",
     "linux/Общее/Полезные команды linux.md",
@@ -166,7 +169,6 @@
     "docker/OpenVas.md",
     "docker/Semaphore.md",
     "linux/Общее/Общее.md",
-    "linux/ubuntu_debian/Автоустановка ОС deb.md",
     "linux/rhel/Автоустановка ОС rpm.md",
     "docker/Pyhole.md",
     "docker/Ngnix Proxy Manager.md",
@@ -188,8 +190,6 @@
     "linux/arch/Настройки GPU.md",
     "linux/Общее",
     "git/gitlab/Тюнинг.md",
-    "git/gitlab/Установка.md",
-    "программирование/flutter/Работа с API во Flutter.md",
     "программирование/flutter/библиотеки",
     "программирование/flutter",
     "программирование",

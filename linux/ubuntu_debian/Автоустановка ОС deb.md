@@ -5,7 +5,7 @@
 Для создания preseed-файла и генерации нового образа ISO вам необходимо установить несколько пакетов. Это можно сделать с помощью команд:
 
 ```
-sudo apt install genisoimage isolinux wget xorriso
+sudo apt install rsync genisoimage isolinux wget xorriso
 sudo apt-get install -y debconf-utils
 ```
 

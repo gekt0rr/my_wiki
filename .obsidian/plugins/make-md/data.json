@@ -36,15 +36,13 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "my_wiki": [
-      "программирование/flutter",
       "linux/rhel/Автоустановка ОС",
       "linux/rhel/Автоустановка ОС",
       "linux/Общее",
       "services/yandex.tank",
       "services/yandex.tank",
       "services/yandex.tank",
-      "docker",
-      "services"
+      "linux/ubuntu_debian"
     ]
   },
   "expandedSpaces": [
@@ -81,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1690287620899,
+  "spacesAutoBackupLast": 1690544609047,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
