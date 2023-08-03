@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/ubuntu_debian/Автоустановка ОС deb.md",
+                "file": "пояснения к проекту ten/proizvodstvo_list.dart.md",
                 "mode": "preview",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/ubuntu_debian/Автоустановка ОС deb.md",
+                "file": "пояснения к проекту ten/proizvodstvo_list.dart.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/ubuntu_debian/Автоустановка ОС deb.md",
+                "file": "пояснения к проекту ten/proizvodstvo_list.dart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/ubuntu_debian/Автоустановка ОС deb.md"
+                "file": "пояснения к проекту ten/proizvodstvo_list.dart.md"
               }
             }
           }
@@ -157,9 +156,13 @@
   },
   "active": "04a15c9b54330658",
   "lastOpenFiles": [
+    "программирование/flutter/Работа с API во Flutter.md",
+    "пояснения к проекту ten/proizvodstvo_list.dart.md",
+    "пояснения к проекту ten",
+    "программирование/flutter/библиотеки/Flutter_form_builder.md",
     "программирование/flutter/библиотеки/Flutter_typeahead.md",
-    "программирование/программирование.md",
     "linux/ubuntu_debian/Автоустановка ОС deb.md",
+    "программирование/программирование.md",
     "services/ftp + web.md",
     "docker/Postgrest.md",
     "docker/OnlyOffice.md",
@@ -186,10 +189,7 @@
     "linux/Общее/Работа с дисками.md",
     "linux/Общее/Работа с сертификатами.md",
     "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
-    "linux/rhel/rhel.md",
-    "linux/arch/Настройки GPU.md",
     "linux/Общее",
-    "git/gitlab/Тюнинг.md",
     "программирование/flutter/библиотеки",
     "программирование/flutter",
     "программирование",
@@ -197,7 +197,6 @@
     "services/Nextcloud/media",
     "git/gitlab",
     "Без названия.canvas",
-    "services/Nextcloud",
-    "linux/ubuntu_debian/Настройки сети"
+    "services/Nextcloud"
   ]
 }

@@ -42,7 +42,9 @@
       "services/yandex.tank",
       "services/yandex.tank",
       "services/yandex.tank",
-      "linux/ubuntu_debian"
+      "linux/ubuntu_debian",
+      "программирование/flutter",
+      "программирование/flutter/библиотеки"
     ]
   },
   "expandedSpaces": [
@@ -79,7 +81,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1690544609047,
+  "spacesAutoBackupLast": 1691054866458,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
