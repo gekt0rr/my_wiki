@@ -38,13 +38,9 @@
     "my_wiki": [
       "linux/rhel/Автоустановка ОС",
       "linux/rhel/Автоустановка ОС",
-      "linux/Общее",
-      "services/yandex.tank",
-      "services/yandex.tank",
-      "services/yandex.tank",
-      "linux/ubuntu_debian",
       "программирование/flutter",
-      "программирование/flutter/библиотеки"
+      "программирование/flutter/библиотеки",
+      "services/yandex.tank"
     ]
   },
   "expandedSpaces": [
@@ -81,7 +77,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1691062898552,
+  "spacesAutoBackupLast": 1692206765578,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

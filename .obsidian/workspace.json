@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,20 +157,23 @@
   },
   "active": "04a15c9b54330658",
   "lastOpenFiles": [
+    "пояснения к проекту ten/пояснения к проекту ten.md",
+    "программирование/flutter/библиотеки/Flutter_typeahead.md",
+    "программирование/flutter/Работа с API во Flutter.md",
+    "программирование/flutter/библиотеки/flutter_bloc.md",
     "пояснения к проекту ten/proizvodstvo_list.dart.md",
     "пояснения к проекту ten/proizvodstvo_form.dart.md",
-    "программирование/flutter/Работа с API во Flutter.md",
-    "пояснения к проекту ten",
-    "программирование/flutter/библиотеки/Flutter_form_builder.md",
-    "программирование/flutter/библиотеки/Flutter_typeahead.md",
-    "linux/ubuntu_debian/Автоустановка ОС deb.md",
-    "программирование/программирование.md",
+    "README.md",
+    "services/proxmox.md",
     "services/ftp + web.md",
     "docker/Postgrest.md",
+    "docker/Postgres.md",
+    "пояснения к проекту ten",
+    "программирование/flutter/библиотеки/Flutter_form_builder.md",
+    "linux/ubuntu_debian/Автоустановка ОС deb.md",
+    "программирование/программирование.md",
     "docker/OnlyOffice.md",
-    "README.md",
     "linux/Общее/Полезные команды linux.md",
-    "services/proxmox.md",
     "docker/OpenVas.md",
     "docker/Semaphore.md",
     "linux/Общее/Общее.md",
@@ -177,7 +181,6 @@
     "docker/Pyhole.md",
     "docker/Ngnix Proxy Manager.md",
     "docker/WordPress.md",
-    "docker/Postgres.md",
     "docker/Heimdall.md",
     "services/Nextcloud/Тюнинг.md",
     "services/Nextcloud/media/Pasted image 20230717112215.png",
@@ -187,8 +190,6 @@
     "services/Nextcloud/media/Pasted image 20230717103902.png",
     "linux/rhel/Автоустановка ОС/Автоустановка ОС.md",
     "linux/rhel/Автоустановка ОС",
-    "linux/Общее/Работа с дисками.md",
-    "linux/Общее/Работа с сертификатами.md",
     "linux/Общее",
     "программирование/flutter/библиотеки",
     "программирование/flutter",
