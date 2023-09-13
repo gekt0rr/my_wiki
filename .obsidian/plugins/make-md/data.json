@@ -40,7 +40,9 @@
       "linux/rhel/Автоустановка ОС",
       "программирование/flutter",
       "программирование/flutter/библиотеки",
-      "services/yandex.tank"
+      "services/yandex.tank",
+      "linux/Общее",
+      "linux/rhel"
     ]
   },
   "expandedSpaces": [
