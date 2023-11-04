@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e30c36a82a51da9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "программирование/flutter/tips_and_tricks/Полезности.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "программирование/flutter/tips_and_tricks/Полезности.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "программирование/flutter/tips_and_tricks/Полезности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "программирование/flutter/tips_and_tricks/Полезности.md"
+              }
+            }
+          },
+          {
+            "id": "2e94f75640e4c2c4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -155,8 +178,20 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "04a15c9b54330658",
+  "active": "5e30c36a82a51da9",
   "lastOpenFiles": [
+    "программирование/flutter/tips_and_tricks/Responsive Layouts.md",
+    "программирование/flutter/tips_and_tricks/Фишки в vscode.md",
+    "программирование/flutter/tips_and_tricks/Полезности.md",
+    "программирование/flutter/библиотеки/tips_and_tricks/Фишки в vscode.md",
+    "программирование/flutter/tips_and_tricks/tips_and_tricks.md",
+    "программирование/flutter/tips_and_tricks",
+    "программирование/flutter/библиотеки/tips_and_tricks/tips_and_tricks.md",
+    "программирование/flutter/библиотеки/flutter_bloc.md",
+    "программирование/flutter/библиотеки/tips_and_tricks",
+    "программирование/flutter/библиотеки/Flutter_form_builder.md",
+    "программирование/flutter/библиотеки/Flutter_typeahead.md",
+    "программирование/flutter/Работа с API во Flutter.md",
     "linux/rhel/Автоустановка ОС rpm.md",
     "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
     "docker/Ngnix Proxy Manager.md",
@@ -167,9 +202,6 @@
     "linux/Общее/Полезные команды linux.md",
     "пояснения к проекту ten/proizvodstvo_form.dart.md",
     "пояснения к проекту ten/пояснения к проекту ten.md",
-    "программирование/flutter/библиотеки/Flutter_typeahead.md",
-    "программирование/flutter/Работа с API во Flutter.md",
-    "программирование/flutter/библиотеки/flutter_bloc.md",
     "пояснения к проекту ten/proizvodstvo_list.dart.md",
     "README.md",
     "services/proxmox.md",
@@ -177,13 +209,6 @@
     "docker/Postgrest.md",
     "docker/Postgres.md",
     "пояснения к проекту ten",
-    "программирование/flutter/библиотеки/Flutter_form_builder.md",
-    "linux/ubuntu_debian/Автоустановка ОС deb.md",
-    "программирование/программирование.md",
-    "docker/OnlyOffice.md",
-    "docker/OpenVas.md",
-    "docker/Semaphore.md",
-    "linux/Общее/Общее.md",
     "services/Nextcloud/media/Pasted image 20230717112215.png",
     "services/Nextcloud/media/Pasted image 20230717110844.png",
     "services/Nextcloud/media/Pasted image 20230717105423.png",
@@ -196,8 +221,6 @@
     "программирование",
     "services/yandex.tank",
     "services/Nextcloud/media",
-    "git/gitlab",
-    "Без названия.canvas",
-    "services/Nextcloud"
+    "Без названия.canvas"
   ]
 }
