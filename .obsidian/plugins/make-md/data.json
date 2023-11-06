@@ -38,11 +38,11 @@
     "my_wiki": [
       "linux/rhel/Автоустановка ОС",
       "linux/rhel/Автоустановка ОС",
-      "linux/Общее",
-      "linux/rhel",
-      "программирование",
       "программирование/flutter",
-      "программирование/flutter/Виджеты"
+      "программирование/flutter/Виджеты",
+      "linux",
+      "linux/Общее",
+      "программирование"
     ]
   },
   "expandedSpaces": [
@@ -79,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1699272458340,
+  "spacesAutoBackupLast": 1699286134262,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
