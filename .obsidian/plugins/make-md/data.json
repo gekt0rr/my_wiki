@@ -38,11 +38,24 @@
     "my_wiki": [
       "linux/rhel/Автоустановка ОС",
       "linux/rhel/Автоустановка ОС",
+<<<<<<< Updated upstream
       "программирование/flutter",
       "программирование/flutter/Виджеты",
       "linux",
       "linux/Общее",
       "программирование"
+=======
+      "программирование/flutter/библиотеки",
+      "services/yandex.tank",
+      "linux/Общее",
+      "linux/rhel",
+      "docker",
+      "docker",
+      "git",
+      "hypervisors",
+      "программирование/ansible",
+      "программирование/flutter"
+>>>>>>> Stashed changes
     ]
   },
   "expandedSpaces": [
@@ -79,7 +92,11 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
+<<<<<<< Updated upstream
   "spacesAutoBackupLast": 1699286134262,
+=======
+  "spacesAutoBackupLast": 1698934292817,
+>>>>>>> Stashed changes
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
