@@ -36,26 +36,11 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "my_wiki": [
-      "linux/rhel/Автоустановка ОС",
-      "linux/rhel/Автоустановка ОС",
-<<<<<<< Updated upstream
-      "программирование/flutter",
-      "программирование/flutter/Виджеты",
+      "программирование/flutter/tips_and_tricks",
+      "git/gitlab",
+      "kubernetes/microk8s",
       "linux",
-      "linux/Общее",
-      "программирование"
-=======
-      "программирование/flutter/библиотеки",
-      "services/yandex.tank",
-      "linux/Общее",
-      "linux/rhel",
-      "docker",
-      "docker",
-      "git",
-      "hypervisors",
-      "программирование/ansible",
-      "программирование/flutter"
->>>>>>> Stashed changes
+      "linux/Общее"
     ]
   },
   "expandedSpaces": [
@@ -92,11 +77,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-<<<<<<< Updated upstream
-  "spacesAutoBackupLast": 1699286134262,
-=======
-  "spacesAutoBackupLast": 1698934292817,
->>>>>>> Stashed changes
+  "spacesAutoBackupLast": 1700818517329,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
