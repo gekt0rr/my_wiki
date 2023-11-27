@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Общее/lmv.md",
+                "file": "linux/rhel/Курсы Centos.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Общее/lmv.md",
+                "file": "linux/rhel/Курсы Centos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Общее/lmv.md",
+                "file": "linux/rhel/Курсы Centos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Общее/lmv.md"
+                "file": "linux/rhel/Курсы Centos.md"
               }
             }
           }
@@ -165,10 +165,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "fcf89b5f6a629123",
+  "active": "60a9fe543a5996c9",
   "lastOpenFiles": [
     "linux/Общее/lmv.md",
+    "linux/rhel/Курсы Centos.md",
     "linux/Общее/Полезные команды linux.md",
+    "linux/Общее/Работа с сертификатами.md",
+    "linux/Общее/Работа с дисками.md",
     "kubernetes/microk8s/microk8s.md",
     "services/yandex.tank/yandex.tank.md",
     "README.md",
