@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "017a02976fe7a12d",
+        "id": "8ed6bdd06e6598bc",
         "type": "tabs",
         "children": [
           {
-            "id": "04a15c9b54330658",
+            "id": "431eb54135f7b8b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e30c36a82a51da9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "программирование/flutter/Виджеты/Виджеты пространства.md",
+                "file": "linux/Общее/Полезные команды linux.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "программирование/flutter/Виджеты/Виджеты пространства.md",
+                "file": "linux/Общее/Полезные команды linux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "программирование/flutter/Виджеты/Виджеты пространства.md",
+                "file": "linux/Общее/Полезные команды linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "программирование/flutter/Виджеты/Виджеты пространства.md"
+                "file": "linux/Общее/Полезные команды linux.md"
               }
             }
           },
@@ -178,43 +165,43 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5e30c36a82a51da9",
+  "active": "431eb54135f7b8b4",
   "lastOpenFiles": [
+    "README.md",
+    "docker/WordPress.md",
+    "docker/Pyhole.md",
+    "docker/docker.md",
     "программирование/flutter/Виджеты/Виджеты оформления.md",
-    "программирование/flutter/Виджеты/Виджеты пространства.md",
+    "программирование/flutter/библиотеки/Flutter_form_builder.md",
+    "services/Nextcloud/Установка.md",
+    "services/Nextcloud/media/Pasted image 20230717112215.png",
+    "services/Nextcloud/media/Pasted image 20230717103902.png",
+    "пояснения к проекту ten/proizvodstvo_list.dart.md",
+    "пояснения к проекту ten/proizvodstvo_form.dart.md",
     "linux/Общее/Работа с сертификатами.md",
     "linux/Общее/Работа с дисками.md",
     "linux/Общее/Полезные команды linux.md",
+    "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
+    "linux/ubuntu_debian/Автоустановка ОС deb.md",
     "linux/rhel/Автоустановка ОС rpm.md",
     "linux/arch/Настройки GPU.md",
+    "docker/Heimdall.md",
+    "программирование/flutter/Виджеты/Виджеты пространства.md",
     "linux/arch/arch.md",
     "git/gitlab/Установка.md",
     "git/gitlab/Тюнинг.md",
     "docker/Semaphore.md",
-    "docker/Pyhole.md",
     "docker/Postgrest.md",
-    "docker/WordPress.md",
     "docker/Postgres.md",
     "docker/OpenVas.md",
     "docker/OnlyOffice.md",
-    "docker/Ngnix Proxy Manager.md",
-    "docker/Heimdall.md",
-    "README.md",
-    "программирование/flutter/tips_and_tricks/Работа с API во Flutter.md",
-    "программирование/flutter/tips_and_tricks/Фишки в vscode.md",
-    "программирование/flutter/tips_and_tricks/Полезности.md",
-    "программирование/flutter/Виджеты/Виджеты.md",
     "программирование/flutter/Виджеты",
-    "программирование/flutter/Виджеты.md",
-    "пояснения к проекту ten/proizvodstvo_list.dart.md",
     "программирование/flutter/tips_and_tricks",
     "программирование/flutter/библиотеки/tips_and_tricks",
     "пояснения к проекту ten",
-    "services/Nextcloud/media/Pasted image 20230717112215.png",
     "services/Nextcloud/media/Pasted image 20230717110844.png",
     "services/Nextcloud/media/Pasted image 20230717105423.png",
     "services/Nextcloud/media/Pasted image 20230717105116.png",
-    "services/Nextcloud/media/Pasted image 20230717103902.png",
     "linux/rhel/Автоустановка ОС",
     "linux/Общее",
     "программирование/flutter/библиотеки",

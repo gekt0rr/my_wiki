@@ -31,6 +31,10 @@ basov   ALL=(ALL:ALL) NOPASSWD:ALL
 
 Сохраните файл и закройте редактор. Теперь пользователь `basov` может выполнять любые команды от имени суперпользователя без ввода пароля.
 
+## ip_forward
+```
+echo 1 > /proc/sys/net/ipv4/ip_forward
+```
 ## хрень
 ```
 sudo apt update
