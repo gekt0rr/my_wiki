@@ -42,8 +42,9 @@
       "linux/arch",
       "services/Nextcloud/media",
       "программирование/flutter/Виджеты",
-      "linux",
-      "linux/Общее"
+      "linux/Общее",
+      "программирование",
+      "программирование/flutter/tips_and_tricks"
     ]
   },
   "expandedSpaces": [
