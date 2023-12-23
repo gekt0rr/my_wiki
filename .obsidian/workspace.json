@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Общее/Полезные команды linux.md",
+                "file": "linux/Общее/Работа с дисками.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Общее/Полезные команды linux.md",
+                "file": "linux/Общее/Работа с дисками.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Общее/Полезные команды linux.md",
+                "file": "linux/Общее/Работа с дисками.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Общее/Полезные команды linux.md"
+                "file": "linux/Общее/Работа с дисками.md"
               }
             }
           },
@@ -167,7 +167,11 @@
   },
   "active": "431eb54135f7b8b4",
   "lastOpenFiles": [
+    "linux/Общее/Полезные команды linux.md",
+    "linux/Общее/Работа с дисками.md",
+    "linux/Общее/Работа с сертификатами.md",
     "README.md",
+    "linux/Общее/lmv.md",
     "docker/WordPress.md",
     "docker/Pyhole.md",
     "docker/docker.md",
@@ -178,9 +182,6 @@
     "services/Nextcloud/media/Pasted image 20230717103902.png",
     "пояснения к проекту ten/proizvodstvo_list.dart.md",
     "пояснения к проекту ten/proizvodstvo_form.dart.md",
-    "linux/Общее/Работа с сертификатами.md",
-    "linux/Общее/Работа с дисками.md",
-    "linux/Общее/Полезные команды linux.md",
     "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
     "linux/ubuntu_debian/Автоустановка ОС deb.md",
     "linux/rhel/Автоустановка ОС rpm.md",
@@ -194,7 +195,6 @@
     "docker/Postgrest.md",
     "docker/Postgres.md",
     "docker/OpenVas.md",
-    "docker/OnlyOffice.md",
     "программирование/flutter/Виджеты",
     "программирование/flutter/tips_and_tricks",
     "программирование/flutter/библиотеки/tips_and_tricks",
