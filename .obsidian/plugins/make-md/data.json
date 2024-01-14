@@ -38,12 +38,14 @@
     "my_wiki": [
       "linux/rhel/Автоустановка ОС",
       "linux/rhel/Автоустановка ОС",
-      "программирование/flutter",
       "linux/arch",
       "services/Nextcloud/media",
       "программирование/flutter/Виджеты",
       "linux/Общее",
-      "linux"
+      "программирование",
+      "программирование/flutter/библиотеки",
+      "пояснения к проекту ten",
+      "пояснения к проекту ten"
     ]
   },
   "expandedSpaces": [
@@ -80,7 +82,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1699286134262,
+  "spacesAutoBackupLast": 1704466800160,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

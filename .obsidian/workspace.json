@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Общее/Работа с дисками.md",
+                "file": "пояснения к проекту ten/proizvodstvo_raschet.dart.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Общее/Работа с дисками.md",
+                "file": "пояснения к проекту ten/proizvodstvo_raschet.dart.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Общее/Работа с дисками.md",
+                "file": "пояснения к проекту ten/proizvodstvo_raschet.dart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Общее/Работа с дисками.md"
+                "file": "пояснения к проекту ten/proizvodstvo_raschet.dart.md"
               }
             }
           },
@@ -144,7 +144,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -167,34 +169,34 @@
   },
   "active": "431eb54135f7b8b4",
   "lastOpenFiles": [
-    "linux/Общее/Полезные команды linux.md",
+    "пояснения к проекту ten/proizvodstvo_form.dart.md",
+    "пояснения к проекту ten/proizvodstvo_raschet.dart.md",
+    "пояснения к проекту ten/proizvodstvo_list.dart.md",
+    "программирование/flutter/библиотеки/Flutter_form_builder.md",
+    "программирование/flutter/Виджеты/Виджеты пространства.md",
+    "программирование/flutter/Виджеты/Виджеты оформления.md",
     "linux/Общее/Работа с дисками.md",
+    "linux/Общее/Полезные команды linux.md",
     "linux/Общее/Работа с сертификатами.md",
     "README.md",
     "linux/Общее/lmv.md",
     "docker/WordPress.md",
     "docker/Pyhole.md",
     "docker/docker.md",
-    "программирование/flutter/Виджеты/Виджеты оформления.md",
-    "программирование/flutter/библиотеки/Flutter_form_builder.md",
     "services/Nextcloud/Установка.md",
     "services/Nextcloud/media/Pasted image 20230717112215.png",
     "services/Nextcloud/media/Pasted image 20230717103902.png",
-    "пояснения к проекту ten/proizvodstvo_list.dart.md",
-    "пояснения к проекту ten/proizvodstvo_form.dart.md",
     "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
     "linux/ubuntu_debian/Автоустановка ОС deb.md",
     "linux/rhel/Автоустановка ОС rpm.md",
     "linux/arch/Настройки GPU.md",
     "docker/Heimdall.md",
-    "программирование/flutter/Виджеты/Виджеты пространства.md",
     "linux/arch/arch.md",
     "git/gitlab/Установка.md",
     "git/gitlab/Тюнинг.md",
     "docker/Semaphore.md",
     "docker/Postgrest.md",
     "docker/Postgres.md",
-    "docker/OpenVas.md",
     "программирование/flutter/Виджеты",
     "программирование/flutter/tips_and_tricks",
     "программирование/flutter/библиотеки/tips_and_tricks",
