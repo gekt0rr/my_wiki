@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16fd66869c45cfda",
+            "type": "leaf",
+            "state": {
+              "type": "make-file-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,9 +83,27 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "508f6ff31c0fa9f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "367470750fd4e8c3",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -167,7 +196,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "431eb54135f7b8b4",
+  "active": "16fd66869c45cfda",
   "lastOpenFiles": [
     "пояснения к проекту ten/proizvodstvo_form.dart.md",
     "пояснения к проекту ten/proizvodstvo_raschet.dart.md",
