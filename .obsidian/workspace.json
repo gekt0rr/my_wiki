@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "431eb54135f7b8b4",
+            "id": "1caab3b3f8ad3827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "пояснения к проекту ten/proizvodstvo_raschet.dart.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "16fd66869c45cfda",
-            "type": "leaf",
-            "state": {
-              "type": "make-file-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,14 +40,6 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "cf154a1d62a74610",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
             }
           },
           {
@@ -103,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -123,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "пояснения к проекту ten/proizvodstvo_raschet.dart.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "пояснения к проекту ten/proizvodstvo_raschet.dart.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "пояснения к проекту ten/proizvodstvo_raschet.dart.md"
+                "file": "README.md"
               }
             }
           },
@@ -196,11 +177,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "16fd66869c45cfda",
+  "active": "1caab3b3f8ad3827",
   "lastOpenFiles": [
-    "пояснения к проекту ten/proizvodstvo_form.dart.md",
     "пояснения к проекту ten/proizvodstvo_raschet.dart.md",
+    "Без названия.canvas",
+    "пояснения к проекту ten/proizvodstvo_form.dart.md",
     "пояснения к проекту ten/proizvodstvo_list.dart.md",
+    "пояснения к проекту ten/пояснения к проекту ten.md",
+    "Spaces/Home",
+    "Spaces",
     "программирование/flutter/библиотеки/Flutter_form_builder.md",
     "программирование/flutter/Виджеты/Виджеты пространства.md",
     "программирование/flutter/Виджеты/Виджеты оформления.md",
@@ -224,8 +209,6 @@
     "git/gitlab/Установка.md",
     "git/gitlab/Тюнинг.md",
     "docker/Semaphore.md",
-    "docker/Postgrest.md",
-    "docker/Postgres.md",
     "программирование/flutter/Виджеты",
     "программирование/flutter/tips_and_tricks",
     "программирование/flutter/библиотеки/tips_and_tricks",
@@ -236,9 +219,6 @@
     "linux/rhel/Автоустановка ОС",
     "linux/Общее",
     "программирование/flutter/библиотеки",
-    "программирование/flutter",
-    "программирование",
-    "services/yandex.tank",
-    "Без названия.canvas"
+    "программирование/flutter"
   ]
 }
