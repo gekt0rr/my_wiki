@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ed6bdd06e6598bc",
+        "id": "8cc292c34d2a3572",
         "type": "tabs",
         "children": [
           {
-            "id": "1caab3b3f8ad3827",
+            "id": "f1eef2182f44c386",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "программирование/flutter/tips_and_tricks/Фишки в vscode.md",
                 "mode": "preview",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "программирование/flutter/tips_and_tricks/Фишки в vscode.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "программирование/flutter/tips_and_tricks/Фишки в vscode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "программирование/flutter/tips_and_tricks/Фишки в vscode.md"
               }
             }
           },
@@ -177,11 +177,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1caab3b3f8ad3827",
+  "active": "f1eef2182f44c386",
   "lastOpenFiles": [
+    "программирование/flutter/tips_and_tricks/Полезности.md",
+    "пояснения к проекту ten/proizvodstvo_form.dart.md",
+    "linux/arch/Настройки GPU.md",
+    "linux/Общее/Работа с сертификатами.md",
+    "linux/Общее/Работа с дисками.md",
+    "linux/Общее/Полезные команды linux.md",
+    "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
+    "services/proxmox.md",
+    "services/ftp + web.md",
+    "README.md",
+    "Без названия.md",
     "пояснения к проекту ten/proizvodstvo_raschet.dart.md",
     "Без названия.canvas",
-    "пояснения к проекту ten/proizvodstvo_form.dart.md",
     "пояснения к проекту ten/proizvodstvo_list.dart.md",
     "пояснения к проекту ten/пояснения к проекту ten.md",
     "Spaces/Home",
@@ -189,10 +199,6 @@
     "программирование/flutter/библиотеки/Flutter_form_builder.md",
     "программирование/flutter/Виджеты/Виджеты пространства.md",
     "программирование/flutter/Виджеты/Виджеты оформления.md",
-    "linux/Общее/Работа с дисками.md",
-    "linux/Общее/Полезные команды linux.md",
-    "linux/Общее/Работа с сертификатами.md",
-    "README.md",
     "linux/Общее/lmv.md",
     "docker/WordPress.md",
     "docker/Pyhole.md",
@@ -200,15 +206,10 @@
     "services/Nextcloud/Установка.md",
     "services/Nextcloud/media/Pasted image 20230717112215.png",
     "services/Nextcloud/media/Pasted image 20230717103902.png",
-    "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
     "linux/ubuntu_debian/Автоустановка ОС deb.md",
     "linux/rhel/Автоустановка ОС rpm.md",
-    "linux/arch/Настройки GPU.md",
     "docker/Heimdall.md",
     "linux/arch/arch.md",
-    "git/gitlab/Установка.md",
-    "git/gitlab/Тюнинг.md",
-    "docker/Semaphore.md",
     "программирование/flutter/Виджеты",
     "программирование/flutter/tips_and_tricks",
     "программирование/flutter/библиотеки/tips_and_tricks",

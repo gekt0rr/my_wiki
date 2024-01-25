@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "root",
+  "activeView": "/",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -38,7 +38,8 @@
     "/",
     null,
     "my_wiki",
-    null
+    null,
+    "//программирование"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
