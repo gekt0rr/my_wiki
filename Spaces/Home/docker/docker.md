@@ -1,5 +1,12 @@
 ---
 sticker: emoji//1f433
+_filters: []
+_contexts: []
+_links: []
+_sort:
+  field: rank
+  asc: false
+  group: false
 ---
 # Docker
 

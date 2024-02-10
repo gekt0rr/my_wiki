@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "431eb54135f7b8b4",
+            "id": "16fd66869c45cfda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Общее/Работа с дисками.md",
+                "file": "Spaces/Home/services/outline wiki/docker-compose.yml.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "16fd66869c45cfda",
-            "type": "leaf",
-            "state": {
-              "type": "make-file-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Общее/Работа с дисками.md",
+                "file": "Spaces/Home/services/outline wiki/docker-compose.yml.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Общее/Работа с дисками.md",
+                "file": "Spaces/Home/services/outline wiki/docker-compose.yml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Общее/Работа с дисками.md"
+                "file": "Spaces/Home/services/outline wiki/docker-compose.yml.md"
               }
             }
           },
@@ -198,47 +187,51 @@
   },
   "active": "16fd66869c45cfda",
   "lastOpenFiles": [
-    "linux/Общее/Полезные команды linux.md",
-    "linux/Общее/Работа с дисками.md",
-    "linux/Общее/Работа с сертификатами.md",
-    "README.md",
-    "linux/Общее/lmv.md",
-    "docker/WordPress.md",
-    "docker/Pyhole.md",
-    "docker/docker.md",
-    "программирование/flutter/Виджеты/Виджеты оформления.md",
-    "программирование/flutter/библиотеки/Flutter_form_builder.md",
-    "services/Nextcloud/Установка.md",
+    "Spaces/Home/services/outline wiki/docker-compose.yml.md",
+    "Spaces/Home/media/Pasted image 20240209155413.png",
+    "Spaces/Home/media/Pasted image 20240209155256.png",
+    "Vault.md",
+    "Spaces/Home/media/media.md",
+    "Spaces/Home/media",
+    "Pasted image 20240209155241.png",
+    "Spaces/Home/services/outline wiki/outline wiki.md",
+    "Spaces/Home/services/outline wiki",
+    "Spaces/Home/services/Keycloak/Keycloak — больно не будет.md",
+    "Spaces/Home/services/Keycloak/Keycloak-compose.md",
+    "Spaces/Home/services/ftp + web.md",
+    "Spaces/Home/services/Keycloak/Keycloak.md",
+    "Spaces/Home/services/Keycloak",
+    "Spaces/Home/linux/arch/Настройки GPU.md",
+    "Spaces/Home/git/gitlab/Установка.md",
+    "Spaces/Home/git/gitlab/Тюнинг.md",
+    "Spaces/Home/docker/WordPress.md",
+    "Spaces/Home/docker/Semaphore.md",
+    "Spaces/Home/docker/Pyhole.md",
+    "Spaces/Home/docker/Postgrest.md",
+    "Spaces/Home/docker/Postgres.md",
+    "Spaces/Home/docker/OpenVas.md",
+    "Spaces/Home/docker/Ngnix Proxy Manager.md",
+    "Spaces/Home/docker/OnlyOffice.md",
+    "Spaces/Home/пояснения к проекту ten/proizvodstvo_form.dart.md",
+    "Spaces/Home/программирование/flutter/библиотеки/flutter_bloc.md",
+    "Spaces/Home/программирование/flutter/библиотеки/Flutter_form_builder.md",
+    "Spaces/Home/программирование/flutter/библиотеки/Flutter_typeahead.md",
+    "Spaces/Home/программирование/flutter/Виджеты/Виджеты пространства.md",
+    "Spaces/Home/программирование/flutter/Виджеты/Виджеты оформления.md",
+    "Spaces/Home/программирование/flutter/библиотеки",
+    "Spaces/Home/программирование/flutter/Виджеты",
+    "Spaces/Home/программирование/flutter/tips_and_tricks",
+    "Spaces/Home/программирование/flutter",
+    "Spaces/Home/программирование",
+    "Spaces/Home/пояснения к проекту ten",
+    "Spaces/Home/test",
+    "Spaces/Home/services/Nextcloud/media/Pasted image 20230717112215.png",
+    "Spaces/Home/services/Nextcloud/media/Pasted image 20230717110844.png",
+    "Spaces/Home/services/Nextcloud/media/Pasted image 20230717105423.png",
+    "Spaces/Home/services/Nextcloud/media/Pasted image 20230717105116.png",
+    "Spaces/Home/services/Nextcloud/media/Pasted image 20230717103902.png",
     "services/Nextcloud/media/Pasted image 20230717112215.png",
     "services/Nextcloud/media/Pasted image 20230717103902.png",
-    "пояснения к проекту ten/proizvodstvo_list.dart.md",
-    "пояснения к проекту ten/proizvodstvo_form.dart.md",
-    "linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
-    "linux/ubuntu_debian/Автоустановка ОС deb.md",
-    "linux/rhel/Автоустановка ОС rpm.md",
-    "linux/arch/Настройки GPU.md",
-    "docker/Heimdall.md",
-    "программирование/flutter/Виджеты/Виджеты пространства.md",
-    "linux/arch/arch.md",
-    "git/gitlab/Установка.md",
-    "git/gitlab/Тюнинг.md",
-    "docker/Semaphore.md",
-    "docker/Postgrest.md",
-    "docker/Postgres.md",
-    "docker/OpenVas.md",
-    "программирование/flutter/Виджеты",
-    "программирование/flutter/tips_and_tricks",
-    "программирование/flutter/библиотеки/tips_and_tricks",
-    "пояснения к проекту ten",
-    "services/Nextcloud/media/Pasted image 20230717110844.png",
-    "services/Nextcloud/media/Pasted image 20230717105423.png",
-    "services/Nextcloud/media/Pasted image 20230717105116.png",
-    "linux/rhel/Автоустановка ОС",
-    "linux/Общее",
-    "программирование/flutter/библиотеки",
-    "программирование/flutter",
-    "программирование",
-    "services/yandex.tank",
     "Без названия.canvas"
   ]
 }
