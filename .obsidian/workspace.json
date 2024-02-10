@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/services/supabase/compose.md",
+                "file": "Spaces/Home/программирование/flutter/Основы/Switch или if.md",
                 "mode": "preview",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/services/supabase/compose.md",
+                "file": "Spaces/Home/программирование/flutter/Основы/Switch или if.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/services/supabase/compose.md",
+                "file": "Spaces/Home/программирование/flutter/Основы/Switch или if.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/services/supabase/compose.md"
+                "file": "Spaces/Home/программирование/flutter/Основы/Switch или if.md"
               }
             }
           },
@@ -187,10 +187,22 @@
   },
   "active": "16fd66869c45cfda",
   "lastOpenFiles": [
-    "Pasted image 20240210203339.png",
-    "Pasted image 20240210203256.png",
-    "Spaces/Home/services/supabase/.env.md",
+    "Spaces/Home/программирование/flutter/Основы/Основы программирования.md",
+    "Spaces/Home/программирование/flutter/Основы/Switch или if.md",
+    "Spaces/Home/программирование/flutter/Виджеты/Виджеты пространства.md",
+    "Spaces/Home/программирование/flutter/flutter.md",
+    "Без названия",
+    "Spaces/Home/программирование/flutter/Основы/Основы.md",
+    "Без названия 2.md",
+    "Без названия 1.md",
+    "Без названия.md",
+    "Spaces/Home/программирование/flutter/Виджеты/Виджеты оформления.md",
+    "Spaces/Home/программирование/flutter/Виджеты/Основы",
+    "Spaces/Home/программирование/flutter/Основы",
     "Spaces/Home/services/supabase/compose.md",
+    "Spaces/Home/media/Pasted image 20240210203339.png",
+    "Spaces/Home/media/Pasted image 20240210203256.png",
+    "Spaces/Home/services/supabase/.env.md",
     "Spaces/Home/services/supabase/supabase.md",
     "Spaces/Home/services/supabase",
     "Spaces/Home/программирование/flutter/tips_and_tricks/Полезности.md",
@@ -207,32 +219,20 @@
     "Spaces/Home/docker/Postgrest.md",
     "Spaces/Home/docker/Postgres.md",
     "Spaces/Home/docker/OpenVas.md",
-    "Spaces/Home/docker/OnlyOffice.md",
-    "Spaces/Home/docker/Ngnix Proxy Manager.md",
-    "Spaces/Home/README.md",
     "Spaces/Home/media/Pasted image 20240209155413.png",
     "Spaces/Home/media/Pasted image 20240209155256.png",
-    "Vault.md",
-    "Spaces/Home/media/media.md",
     "Spaces/Home/media",
     "Pasted image 20240209155241.png",
-    "Spaces/Home/services/outline wiki/outline wiki.md",
     "Spaces/Home/services/outline wiki",
-    "Spaces/Home/services/Keycloak/Keycloak.md",
     "Spaces/Home/services/Keycloak",
-    "Spaces/Home/linux/arch/Настройки GPU.md",
     "Spaces/Home/программирование/flutter/библиотеки",
     "Spaces/Home/программирование/flutter/Виджеты",
     "Spaces/Home/программирование/flutter/tips_and_tricks",
-    "Spaces/Home/программирование/flutter",
-    "Spaces/Home/программирование",
-    "Spaces/Home/пояснения к проекту ten",
     "Spaces/Home/services/Nextcloud/media/Pasted image 20230717112215.png",
     "Spaces/Home/services/Nextcloud/media/Pasted image 20230717110844.png",
     "Spaces/Home/services/Nextcloud/media/Pasted image 20230717105423.png",
     "Spaces/Home/services/Nextcloud/media/Pasted image 20230717105116.png",
     "Spaces/Home/services/Nextcloud/media/Pasted image 20230717103902.png",
-    "services/Nextcloud/media/Pasted image 20230717112215.png",
     "Без названия.canvas"
   ]
 }
