@@ -35,3 +35,13 @@ basov   ALL=(ALL:ALL) NOPASSWD:ALL
 ```
 echo 1 > /proc/sys/net/ipv4/ip_forward
 ```
+## Работа с каталогами
+
+Перейти в каталог
+```
+pushd /etc/systemd/
+```
+Вернуться обратно
+```
+popd
+```

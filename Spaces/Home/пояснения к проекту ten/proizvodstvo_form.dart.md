@@ -116,7 +116,6 @@ TypeAheadFormField(
 4. `TypeAheadFormField` для поля "Толщина стенки": Это поле автозаполнения позволяет пользователю выбрать толщину стенки на основе введенного текста. Вот вырезка кода:
 
 ```dart
-Type```dart
 TypeAheadFormField(
   textFieldConfiguration: TextFieldConfiguration(
     decoration: InputDecoration(labelText: 'Толщина стенки'),
