@@ -25,11 +25,11 @@ apt install vim net-tools tree ncdu bash-completion curl dnsutils htop iftop pwg
 curl -fsSL https://get.docker.com -o get-docker.sh
 sudo sh get-docker.sh
 sudo apt install python3-pip -y
-sudo pip3 install docker-compose
+sudo apt install docker-compose
 ```
 **3. Добавьте вашего пользователя в группу docker**
 ```
-sudo gpasswd -a ваш_пользователь docker
+sudo gpasswd -a $USER docker
 ```
 После выполнения этих шагов Docker будет установлен на вашем хост. Вы можете проверить это, выполнив следующую команду:
 ```
@@ -38,6 +38,17 @@ docker run hello-world
 Если вы видите сообщение "Hello from Docker!", то Docker установлен и работает должным образом.
 
 **4. Так же будет полезным установить portainer для удобства управления docker-инфраструктурой**
+
+Сначала создайте том, который Portainer Server будет использовать для хранения своей базы данных:
+
+```
+docker volume create portainer_data
+```
+Затем загрузите и установите контейнер Portainer Server:
+
+```
+docker run -d -p 8000:8000 -p 9443:9443 --name portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce:latest
+```
 
 
 ## Различные полезные контейнеры

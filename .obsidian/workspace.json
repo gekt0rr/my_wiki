@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/программирование/flutter/Основы/Основы программирования.md",
+                "file": "Spaces/Home/docker/Heimdall.md",
                 "mode": "preview",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/программирование/flutter/Основы/Основы программирования.md",
+                "file": "Spaces/Home/docker/Heimdall.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/программирование/flutter/Основы/Основы программирования.md",
+                "file": "Spaces/Home/docker/Heimdall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/программирование/flutter/Основы/Основы программирования.md"
+                "file": "Spaces/Home/docker/Heimdall.md"
               }
             }
           },
@@ -187,17 +187,22 @@
   },
   "active": "16fd66869c45cfda",
   "lastOpenFiles": [
-    "Pasted image 20240212123406.png",
     "Spaces/Home/программирование/flutter/Основы/Основы программирования.md",
-    "Spaces/Home/программирование/flutter/Основы/Switch или if.md",
+    "Spaces/Home/программирование/flutter/библиотеки/Flutter_typeahead.md",
     "Spaces/Home/программирование/flutter/Виджеты/Виджеты пространства.md",
+    "Spaces/Home/программирование/flutter/Виджеты/Виджеты оформления.md",
+    "Spaces/Home/программирование/flutter/tips_and_tricks/Фишки в vscode.md",
+    "Spaces/Home/программирование/flutter/tips_and_tricks/Работа с API во Flutter.md",
+    "Spaces/Home/программирование/flutter/tips_and_tricks/Полезности.md",
+    "Spaces/Home/программирование/flutter/tips_and_tricks/Responsive Layouts.md",
+    "Spaces/Home/программирование/flutter/Основы/Switch или if.md",
+    "Pasted image 20240212123406.png",
     "Spaces/Home/программирование/flutter/flutter.md",
     "Без названия",
     "Spaces/Home/программирование/flutter/Основы/Основы.md",
     "Без названия 2.md",
     "Без названия 1.md",
     "Без названия.md",
-    "Spaces/Home/программирование/flutter/Виджеты/Виджеты оформления.md",
     "Spaces/Home/программирование/flutter/Виджеты/Основы",
     "Spaces/Home/программирование/flutter/Основы",
     "Spaces/Home/services/supabase/compose.md",
@@ -206,8 +211,6 @@
     "Spaces/Home/services/supabase/.env.md",
     "Spaces/Home/services/supabase/supabase.md",
     "Spaces/Home/services/supabase",
-    "Spaces/Home/программирование/flutter/tips_and_tricks/Полезности.md",
-    "Spaces/Home/программирование/flutter/tips_and_tricks/Responsive Layouts.md",
     "Spaces/Home/services/proxmox.md",
     "Spaces/Home/services/ftp + web.md",
     "Spaces/Home/services/outline wiki/docker-compose.yml.md",
@@ -217,8 +220,6 @@
     "Spaces/Home/docker/WordPress.md",
     "Spaces/Home/docker/Semaphore.md",
     "Spaces/Home/docker/Pyhole.md",
-    "Spaces/Home/docker/Postgrest.md",
-    "Spaces/Home/docker/Postgres.md",
     "Spaces/Home/media/Pasted image 20240209155413.png",
     "Spaces/Home/media/Pasted image 20240209155256.png",
     "Spaces/Home/media",
@@ -232,7 +233,6 @@
     "Spaces/Home/services/Nextcloud/media/Pasted image 20230717110844.png",
     "Spaces/Home/services/Nextcloud/media/Pasted image 20230717105423.png",
     "Spaces/Home/services/Nextcloud/media/Pasted image 20230717105116.png",
-    "Spaces/Home/services/Nextcloud/media/Pasted image 20230717103902.png",
     "Без названия.canvas"
   ]
 }
