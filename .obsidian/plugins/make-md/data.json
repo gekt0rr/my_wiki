@@ -53,8 +53,17 @@
     "///////",
     "/////////",
     "//Spaces/Spaces/Home",
+<<<<<<< Updated upstream
     "Spaces/Home/Spaces/Home/программирование/Spaces/Home/программирование/flutter/Spaces/Home/программирование/flutter/Основы",
     "Spaces/Home/Spaces/Home/docker"
+=======
+    "Spaces/Home/Spaces/Home/программирование/Spaces/Home/программирование/flutter",
+    "Spaces/Home/Spaces/Home/программирование/Spaces/Home/программирование/flutter",
+    "Spaces/Home/Spaces/Home/git/Spaces/Home/git/gitlab",
+    "Spaces/Home/Spaces/Home/ansible",
+    "Spaces/Home/Spaces/Home/linux",
+    "Spaces/Home/Spaces/Home/linux/Spaces/Home/linux/ubuntu_debian"
+>>>>>>> Stashed changes
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
