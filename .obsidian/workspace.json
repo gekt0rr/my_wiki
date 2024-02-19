@@ -1,23 +1,19 @@
 {
   "main": {
-    "id": "d3e402a4f75033d8",
+    "id": "981cb4f4df0f97a4",
     "type": "split",
     "children": [
       {
-        "id": "8ed6bdd06e6598bc",
+        "id": "bb95ebb043a09386",
         "type": "tabs",
         "children": [
           {
-            "id": "16fd66869c45cfda",
+            "id": "284e9defc1fcbbaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Spaces/Home/docker/Heimdall.md",
-=======
-                "file": "Spaces/Home/linux/ubuntu_debian/Автоустановка ОС deb.md",
->>>>>>> Stashed changes
+                "file": "Spaces/Home/docker/mysql.md",
                 "mode": "preview",
                 "source": false
               }
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4f66867cf6e65e01",
+    "id": "4d7a0a707d344ad5",
     "type": "split",
     "children": [
       {
-        "id": "6013720292c02398",
+        "id": "b349f0a5b4e1428e",
         "type": "tabs",
         "children": [
           {
-            "id": "82f6bc4d7d4c2302",
+            "id": "b6267a4b5b8d6fe0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,15 +43,7 @@
             }
           },
           {
-            "id": "cf154a1d62a74610",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "f011b58916fd54ca",
+            "id": "64c84e77f55d35bf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +58,7 @@
             }
           },
           {
-            "id": "1fae73a734a23aba",
+            "id": "4e13d4c4a8ea308c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,17 +66,7 @@
             }
           },
           {
-            "id": "508f6ff31c0fa9f3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "367470750fd4e8c3",
+            "id": "4b39a688dda624da",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -96,31 +74,27 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 300
   },
   "right": {
-    "id": "b66b0c811c4d9a57",
+    "id": "9a1df95c7baed03b",
     "type": "split",
     "children": [
       {
-        "id": "57bcf71d602c84e3",
+        "id": "13708a1c740dd4db",
         "type": "tabs",
         "children": [
           {
-            "id": "3ff5d4c13720066c",
+            "id": "dcd48f912ab6a863",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Spaces/Home/docker/Heimdall.md",
-=======
-                "file": "Spaces/Home/linux/ubuntu_debian/Автоустановка ОС deb.md",
->>>>>>> Stashed changes
+                "file": "Spaces/Home/docker/mysql.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,23 +106,19 @@
             }
           },
           {
-            "id": "8710f1331b381ff7",
+            "id": "38b8589823b3d2bf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Spaces/Home/docker/Heimdall.md",
-=======
-                "file": "Spaces/Home/linux/ubuntu_debian/Автоустановка ОС deb.md",
->>>>>>> Stashed changes
+                "file": "Spaces/Home/docker/mysql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a4170682263b7693",
+            "id": "22eaae6dfa7618e9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -159,21 +129,7 @@
             }
           },
           {
-            "id": "0decf19cbaacc1b7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "Spaces/Home/docker/Heimdall.md"
-=======
-                "file": "Spaces/Home/linux/ubuntu_debian/Автоустановка ОС deb.md"
->>>>>>> Stashed changes
-              }
-            }
-          },
-          {
-            "id": "2e94f75640e4c2c4",
+            "id": "bf336a0f0ca105a2",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -183,9 +139,18 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "4b983bed2b0bd3c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spaces/Home/docker/mysql.md"
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,69 +166,8 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "16fd66869c45cfda",
+  "active": "dcd48f912ab6a863",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Spaces/Home/программирование/flutter/Основы/Основы программирования.md",
-    "Spaces/Home/программирование/flutter/библиотеки/Flutter_typeahead.md",
-=======
-    "Spaces/Home/linux/rhel/Курсы Centos.md",
-    "Spaces/Home/linux/rhel/Автоустановка ОС rpm.md",
-    "Spaces/Home/linux/arch/Настройки GPU.md",
-    "Spaces/Home/README.md",
-    "Spaces/Home/git/gitlab/Тюнинг.md",
-    "Spaces/Home/git/gitlab/Установка.md",
-    "Spaces/Home/программирование/flutter/Основы/Основы программирования.md",
-    "Spaces/Home/программирование/flutter/Основы/Switch или if.md",
-    "Pasted image 20240212123406.png",
->>>>>>> Stashed changes
-    "Spaces/Home/программирование/flutter/Виджеты/Виджеты пространства.md",
-    "Spaces/Home/программирование/flutter/Виджеты/Виджеты оформления.md",
-    "Spaces/Home/программирование/flutter/tips_and_tricks/Фишки в vscode.md",
-    "Spaces/Home/программирование/flutter/tips_and_tricks/Работа с API во Flutter.md",
-    "Spaces/Home/программирование/flutter/tips_and_tricks/Полезности.md",
-    "Spaces/Home/программирование/flutter/tips_and_tricks/Responsive Layouts.md",
-    "Spaces/Home/программирование/flutter/Основы/Switch или if.md",
-    "Pasted image 20240212123406.png",
-    "Spaces/Home/программирование/flutter/flutter.md",
-    "Без названия",
-    "Spaces/Home/программирование/flutter/Основы/Основы.md",
-    "Без названия 2.md",
-    "Без названия 1.md",
-    "Без названия.md",
-    "Spaces/Home/программирование/flutter/Виджеты/Основы",
-    "Spaces/Home/программирование/flutter/Основы",
-    "Spaces/Home/services/supabase/compose.md",
-    "Spaces/Home/media/Pasted image 20240210203339.png",
-    "Spaces/Home/media/Pasted image 20240210203256.png",
-    "Spaces/Home/services/supabase/.env.md",
-    "Spaces/Home/services/supabase/supabase.md",
-    "Spaces/Home/services/supabase",
-    "Spaces/Home/services/proxmox.md",
-    "Spaces/Home/services/ftp + web.md",
-    "Spaces/Home/services/outline wiki/docker-compose.yml.md",
-    "Spaces/Home/services/Keycloak/Keycloak — больно не будет.md",
-    "Spaces/Home/services/Keycloak/Keycloak-compose.md",
-    "Spaces/Home/docker/Heimdall.md",
-<<<<<<< Updated upstream
-    "Spaces/Home/docker/WordPress.md",
-    "Spaces/Home/docker/Semaphore.md",
-    "Spaces/Home/docker/Pyhole.md",
-=======
->>>>>>> Stashed changes
-    "Spaces/Home/media/Pasted image 20240209155413.png",
-    "Spaces/Home/media/Pasted image 20240209155256.png",
-    "Spaces/Home/media",
-    "Pasted image 20240209155241.png",
-    "Spaces/Home/services/outline wiki",
-    "Spaces/Home/services/Keycloak",
-    "Spaces/Home/программирование/flutter/библиотеки",
-    "Spaces/Home/программирование/flutter/Виджеты",
-    "Spaces/Home/программирование/flutter/tips_and_tricks",
-    "Spaces/Home/services/Nextcloud/media/Pasted image 20230717112215.png",
-    "Spaces/Home/services/Nextcloud/media/Pasted image 20230717110844.png",
-    "Spaces/Home/services/Nextcloud/media/Pasted image 20230717105423.png",
-    "Spaces/Home/services/Nextcloud/media/Pasted image 20230717105116.png",
-    "Без названия.canvas"
+    "Spaces/Home/docker/mysql.md"
   ]
 }

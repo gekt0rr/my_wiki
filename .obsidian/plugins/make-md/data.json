@@ -36,34 +36,7 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    null,
-    "my_wiki",
-    null,
-    "//test",
-    "//test",
-    "//Spaces",
-    "//Spaces/Spaces/Home/Spaces/Home/программирование/Spaces/Home/программирование/flutter/Spaces/Home/программирование/flutter/tips_and_tricks",
-    "//Spaces/Spaces/Home/Spaces/Home/программирование/Spaces/Home/программирование/flutter/Spaces/Home/программирование/flutter/Виджеты",
-    "//Spaces/Spaces/Home/Spaces/Home/программирование/Spaces/Home/программирование/flutter/Spaces/Home/программирование/flutter/библиотеки",
-    "//Spaces/Spaces/Home/Spaces/Home/test",
-    "//Spaces/Spaces/Home/Spaces/Home/linux/Spaces/Home/linux/arch",
-    "//Spaces/Spaces/Home/Spaces/Home/linux/Spaces/Home/linux/arch",
-    "////Spaces",
-    "/////",
-    "///////",
-    "/////////",
-    "//Spaces/Spaces/Home",
-<<<<<<< Updated upstream
-    "Spaces/Home/Spaces/Home/программирование/Spaces/Home/программирование/flutter/Spaces/Home/программирование/flutter/Основы",
     "Spaces/Home/Spaces/Home/docker"
-=======
-    "Spaces/Home/Spaces/Home/программирование/Spaces/Home/программирование/flutter",
-    "Spaces/Home/Spaces/Home/программирование/Spaces/Home/программирование/flutter",
-    "Spaces/Home/Spaces/Home/git/Spaces/Home/git/gitlab",
-    "Spaces/Home/Spaces/Home/ansible",
-    "Spaces/Home/Spaces/Home/linux",
-    "Spaces/Home/Spaces/Home/linux/Spaces/Home/linux/ubuntu_debian"
->>>>>>> Stashed changes
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -72,11 +45,9 @@
   "folderContextFile": "context",
   "folderFrameFile": "frames",
   "spacesFolder": "Spaces",
-  "hiddenFiles": [
-    "Context"
-  ],
+  "hiddenFiles": [],
   "hiddenExtensions": [
-    "mdb"
+    ".mdb"
   ],
   "inlineBacklinks": false,
   "inlineContext": true,
@@ -91,7 +62,7 @@
     "spaces://$tags"
   ],
   "spacesUseAlias": false,
-  "fmKeyAlias": "alias",
+  "fmKeyAlias": "aliases",
   "fmKeyBanner": "banner",
   "fmKeyColor": "color",
   "fmKeySticker": "sticker",
@@ -112,33 +83,5 @@
   "showSpacePinIcon": true,
   "minimalFix": false,
   "experimental": false,
-  "systemName": "Vault",
-  "spacesCompactMode": false,
-  "collapsedTags": [],
-  "folderNoteDefaultView": true,
-  "expandedFolders": {
-    "my_wiki": [
-      "linux/rhel/Автоустановка ОС",
-      "linux/rhel/Автоустановка ОС",
-      "программирование/flutter",
-      "linux/arch",
-      "services/Nextcloud/media",
-      "программирование/flutter/Виджеты",
-      "linux/Общее",
-      "linux"
-    ]
-  },
-  "openFolders": [],
-  "fileIcons": [],
-  "cachedSpaces": [
-    "my_wiki"
-  ],
-  "tagContextFolder": "Context",
-  "lineNumbers": false,
-  "spacesSyncLastUpdated": "Context/spacesLastSync.log",
-  "spacesSyncTimeoutSeconds": 10,
-  "spacesAutoBackup": true,
-  "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1699286134262,
-  "precreateVaultSpace": true
+  "systemName": "Vault"
 }
