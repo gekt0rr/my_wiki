@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/docker/Heimdall.md",
+                "file": "Spaces/Home/программирование/SQL/Основы баз данных.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5915a2cedb4b8e52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/программирование/SQL/Основы баз данных.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/docker/Heimdall.md",
+                "file": "Spaces/Home/программирование/SQL/Основы баз данных.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/docker/Heimdall.md",
+                "file": "Spaces/Home/программирование/SQL/Основы баз данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/docker/Heimdall.md"
+                "file": "Spaces/Home/программирование/SQL/Основы баз данных.md"
               }
             }
           },
@@ -185,8 +198,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "16fd66869c45cfda",
+  "active": "367470750fd4e8c3",
   "lastOpenFiles": [
+    "Spaces/Home/программирование/SQL/Основы баз данных.md",
+    "Spaces/Home/docker/Heimdall.md",
+    "Spaces/Home/программирование/SQL/SQL.md",
+    "Spaces/Home/программирование/SQL",
+    "Spaces/Home/программирование/Без названия.md",
     "Spaces/Home/программирование/flutter/Основы/Основы программирования.md",
     "Spaces/Home/программирование/flutter/библиотеки/Flutter_typeahead.md",
     "Spaces/Home/программирование/flutter/Виджеты/Виджеты пространства.md",
@@ -216,10 +234,6 @@
     "Spaces/Home/services/outline wiki/docker-compose.yml.md",
     "Spaces/Home/services/Keycloak/Keycloak — больно не будет.md",
     "Spaces/Home/services/Keycloak/Keycloak-compose.md",
-    "Spaces/Home/docker/Heimdall.md",
-    "Spaces/Home/docker/WordPress.md",
-    "Spaces/Home/docker/Semaphore.md",
-    "Spaces/Home/docker/Pyhole.md",
     "Spaces/Home/media/Pasted image 20240209155413.png",
     "Spaces/Home/media/Pasted image 20240209155256.png",
     "Spaces/Home/media",
@@ -228,7 +242,6 @@
     "Spaces/Home/services/Keycloak",
     "Spaces/Home/программирование/flutter/библиотеки",
     "Spaces/Home/программирование/flutter/Виджеты",
-    "Spaces/Home/программирование/flutter/tips_and_tricks",
     "Spaces/Home/services/Nextcloud/media/Pasted image 20230717112215.png",
     "Spaces/Home/services/Nextcloud/media/Pasted image 20230717110844.png",
     "Spaces/Home/services/Nextcloud/media/Pasted image 20230717105423.png",
