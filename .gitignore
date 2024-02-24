@@ -1,0 +1,7 @@
+# для windows
+.makemd\fileCache.mdb
+.makemd\superstate.mdb
+.obsidian\plugins\make-md\data.json
+.obsidian\workspace.json
+
+# для linux
