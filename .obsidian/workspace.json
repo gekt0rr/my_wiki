@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16fd66869c45cfda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/программирование/SQL/Основы баз данных.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5915a2cedb4b8e52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/программирование/SQL/Основы баз данных.md",
+                "file": "Spaces/Home/README.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/программирование/SQL/Основы баз данных.md",
+                "file": "Spaces/Home/README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/программирование/SQL/Основы баз данных.md",
+                "file": "Spaces/Home/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/программирование/SQL/Основы баз данных.md"
+                "file": "Spaces/Home/README.md"
               }
             }
           },
@@ -198,9 +185,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "367470750fd4e8c3",
+  "active": "5915a2cedb4b8e52",
   "lastOpenFiles": [
     "Spaces/Home/программирование/SQL/Основы баз данных.md",
+    "Spaces/Home/docker/mysql.md",
     "Spaces/Home/docker/Heimdall.md",
     "Spaces/Home/программирование/SQL/SQL.md",
     "Spaces/Home/программирование/SQL",
@@ -233,7 +221,6 @@
     "Spaces/Home/services/ftp + web.md",
     "Spaces/Home/services/outline wiki/docker-compose.yml.md",
     "Spaces/Home/services/Keycloak/Keycloak — больно не будет.md",
-    "Spaces/Home/services/Keycloak/Keycloak-compose.md",
     "Spaces/Home/media/Pasted image 20240209155413.png",
     "Spaces/Home/media/Pasted image 20240209155256.png",
     "Spaces/Home/media",
