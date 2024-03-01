@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/программирование/SQL/Основы баз данных.md",
+                "file": "Spaces/Home/программирование/javascript/массивы.md",
                 "mode": "preview",
                 "source": false
               }
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 242.5
   },
   "right": {
     "id": "b66b0c811c4d9a57",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/программирование/SQL/Основы баз данных.md",
+                "file": "Spaces/Home/программирование/javascript/массивы.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/программирование/SQL/Основы баз данных.md",
+                "file": "Spaces/Home/программирование/javascript/массивы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/программирование/SQL/Основы баз данных.md"
+                "file": "Spaces/Home/программирование/javascript/массивы.md"
               }
             }
           },
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,11 +187,17 @@
   },
   "active": "5915a2cedb4b8e52",
   "lastOpenFiles": [
+    "Spaces/Home/программирование/flutter/Основы/Основы программирования.md",
+    "Spaces/Home/программирование/SQL/Основы баз данных.md",
+    "Spaces/Home/программирование/javascript/массивы.md",
+    "sdfdsfds.md",
     "Spaces/Home/services/Мониторинг/grafana/Основы grafana.md",
+    "Spaces/Home/программирование/javascript/javascript.md",
+    "Spaces/Home/программирование/javascript",
+    "Spaces/Home/программирование/Без названия.md",
     "Spaces/Home/services/Мониторинг/Без названия.md",
     "Spaces/Home/services/Мониторинг/grafana/grafana.md",
     "Spaces/Home/services/Мониторинг/grafana",
-    "Spaces/Home/программирование/SQL/Основы баз данных.md",
     "Spaces/Home/services/Мониторинг/Мониторинг.md",
     "Spaces/Home/services/Мониторинг",
     "Spaces/Home/media/Pasted image 20240209155413.png",
@@ -201,8 +207,6 @@
     "Spaces/Home/docker/Heimdall.md",
     "Spaces/Home/программирование/SQL/SQL.md",
     "Spaces/Home/программирование/SQL",
-    "Spaces/Home/программирование/Без названия.md",
-    "Spaces/Home/программирование/flutter/Основы/Основы программирования.md",
     "Spaces/Home/программирование/flutter/библиотеки/Flutter_typeahead.md",
     "Spaces/Home/программирование/flutter/Виджеты/Виджеты пространства.md",
     "Spaces/Home/программирование/flutter/Виджеты/Виджеты оформления.md",
@@ -216,11 +220,8 @@
     "Без названия",
     "Spaces/Home/программирование/flutter/Основы/Основы.md",
     "Без названия 2.md",
-    "Без названия 1.md",
-    "Без названия.md",
     "Spaces/Home/программирование/flutter/Виджеты/Основы",
     "Spaces/Home/программирование/flutter/Основы",
-    "Spaces/Home/services/supabase/compose.md",
     "Spaces/Home/media/Pasted image 20240210203339.png",
     "Spaces/Home/media/Pasted image 20240210203256.png",
     "Spaces/Home/services/supabase",
@@ -228,7 +229,6 @@
     "Spaces/Home/media",
     "Pasted image 20240209155241.png",
     "Spaces/Home/services/outline wiki",
-    "Spaces/Home/services/Keycloak",
     "Spaces/Home/services/Nextcloud/media/Pasted image 20230717112215.png",
     "Spaces/Home/services/Nextcloud/media/Pasted image 20230717110844.png",
     "Spaces/Home/services/Nextcloud/media/Pasted image 20230717105423.png",
