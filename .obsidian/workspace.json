@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/программирование/javascript/массивы.md",
+                "file": "Spaces/Home/ansible/установка и настройка.md",
                 "mode": "preview",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/программирование/javascript/массивы.md",
+                "file": "Spaces/Home/ansible/установка и настройка.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/программирование/javascript/массивы.md",
+                "file": "Spaces/Home/ansible/установка и настройка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/программирование/javascript/массивы.md"
+                "file": "Spaces/Home/ansible/установка и настройка.md"
               }
             }
           },
@@ -187,6 +187,8 @@
   },
   "active": "5915a2cedb4b8e52",
   "lastOpenFiles": [
+    "Spaces/Home/services/proxmox.md",
+    "Spaces/Home/ansible/установка и настройка.md",
     "Spaces/Home/программирование/javascript/массивы.md",
     "Spaces/Home/linux/Общее/Полезные команды linux.md",
     "Spaces/Home/программирование/flutter/Основы/Основы программирования.md",
@@ -217,9 +219,7 @@
     "Spaces/Home/программирование/flutter/tips_and_tricks/Responsive Layouts.md",
     "Spaces/Home/программирование/flutter/Основы/Switch или if.md",
     "Pasted image 20240212123406.png",
-    "Spaces/Home/программирование/flutter/flutter.md",
     "Без названия",
-    "Spaces/Home/программирование/flutter/Основы/Основы.md",
     "Spaces/Home/программирование/flutter/Виджеты/Основы",
     "Spaces/Home/программирование/flutter/Основы",
     "Spaces/Home/media/Pasted image 20240210203339.png",
