@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8ed6bdd06e6598bc",
+        "id": "80898b86857541d9",
         "type": "tabs",
         "children": [
           {
-            "id": "5915a2cedb4b8e52",
+            "id": "359a87cda2d942f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/services/Nextcloud/Тюнинг.md",
+                "file": "Spaces/Home/AI/stable_diffusion/ComfyUI/Урок_1_Основы.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9f0f749c50a3b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/программирование/flutter/tips_and_tricks/Фишки в vscode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alia",
+                "query": "freei",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/services/Nextcloud/Тюнинг.md",
+                "file": "Spaces/Home/программирование/flutter/tips_and_tricks/Фишки в vscode.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/services/Nextcloud/Тюнинг.md",
+                "file": "Spaces/Home/программирование/flutter/tips_and_tricks/Фишки в vscode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/services/Nextcloud/Тюнинг.md"
+                "file": "Spaces/Home/программирование/flutter/tips_and_tricks/Фишки в vscode.md"
               }
             }
           },
@@ -185,11 +198,29 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5915a2cedb4b8e52",
+  "active": "a9f0f749c50a3b74",
   "lastOpenFiles": [
+    "Spaces/Home/AI/stable_diffusion/ComfyUI/Урок_0_Программа уроков.md",
+    "Spaces/Home/AI/stable_diffusion/ComfyUI/Урок_1_Основы.md",
+    "Spaces/Home/AI/stable_diffusion/ComfyUI/ComfyUI.md",
+    "Spaces/Home/AI/stable_diffusion/ComfyUI",
+    "Spaces/Home/AI/stable_diffusion/stable_diffusion.md",
+    "Spaces/Home/AI/stable_diffusion",
+    "Spaces/Home/AI/AI.md",
+    "Spaces/Home/AI",
+    "Spaces/Home/linux/Общее/Работа с сертификатами.md",
+    "Spaces/Home/linux/Общее/Работа с дисками.md",
+    "Spaces/Home/linux/Общее/Полезные команды linux.md",
+    "Spaces/Home/linux/Общее/Как вычеслить 2ой DHCP.md",
     "Spaces/Home/linux/Общее/lmv.md",
-    "Spaces/Home/services/Nextcloud/Тюнинг.md",
+    "Spaces/Home/git/gitlab/Тюнинг.md",
+    "Spaces/Home/git/gitlab/Установка.md",
     "Spaces/Home/services/proxmox.md",
+    "Spaces/Home/программирование/flutter/tips_and_tricks/Фишки в vscode.md",
+    "Spaces/Home/linux/ubuntu_debian/Автоустановка ОС deb.md",
+    "Spaces/Home/linux/ubuntu_debian/Настройки сети/Debian, как настроить сеть в текстовом файле.md",
+    "Spaces/Home/devops/ansible/установка и настройка.md",
+    "Spaces/Home/services/Nextcloud/Тюнинг.md",
     "Spaces/Home/README.md",
     "Spaces/Home/программирование/javascript/массивы.md",
     "Spaces/Home/программирование/flutter/Основы/Основы программирования.md",
@@ -199,36 +230,18 @@
     "Spaces/Home/программирование/javascript/javascript.md",
     "Spaces/Home/программирование/javascript",
     "Spaces/Home/программирование/Без названия.md",
-    "Spaces/Home/services/Мониторинг/Без названия.md",
-    "Spaces/Home/services/Мониторинг/grafana/grafana.md",
     "Spaces/Home/services/Мониторинг/grafana",
-    "Spaces/Home/services/Мониторинг/Мониторинг.md",
     "Spaces/Home/services/Мониторинг",
     "Spaces/Home/media/Pasted image 20240209155413.png",
-    "Spaces/Home/docker/mysql.md",
-    "Spaces/Home/docker/Heimdall.md",
-    "Spaces/Home/программирование/SQL/SQL.md",
     "Spaces/Home/программирование/SQL",
-    "Spaces/Home/программирование/flutter/библиотеки/Flutter_typeahead.md",
-    "Spaces/Home/программирование/flutter/Виджеты/Виджеты пространства.md",
-    "Spaces/Home/программирование/flutter/Виджеты/Виджеты оформления.md",
-    "Spaces/Home/программирование/flutter/tips_and_tricks/Фишки в vscode.md",
-    "Spaces/Home/программирование/flutter/tips_and_tricks/Работа с API во Flutter.md",
-    "Spaces/Home/программирование/flutter/tips_and_tricks/Полезности.md",
-    "Spaces/Home/программирование/flutter/tips_and_tricks/Responsive Layouts.md",
-    "Spaces/Home/программирование/flutter/Основы/Switch или if.md",
     "Pasted image 20240212123406.png",
-    "Spaces/Home/программирование/flutter/flutter.md",
     "Без названия",
     "Spaces/Home/программирование/flutter/Виджеты/Основы",
     "Spaces/Home/программирование/flutter/Основы",
     "Spaces/Home/media/Pasted image 20240210203339.png",
     "Spaces/Home/media/Pasted image 20240210203256.png",
-    "Spaces/Home/services/supabase",
     "Spaces/Home/media/Pasted image 20240209155256.png",
-    "Spaces/Home/media",
     "Pasted image 20240209155241.png",
-    "Spaces/Home/services/outline wiki",
     "Spaces/Home/services/Nextcloud/media/Pasted image 20230717112215.png",
     "Spaces/Home/services/Nextcloud/media/Pasted image 20230717110844.png",
     "Spaces/Home/services/Nextcloud/media/Pasted image 20230717105423.png",
