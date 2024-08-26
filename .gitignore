@@ -5,3 +5,16 @@
 # /.obsidian/workspace.json
 
 # для linux
+
+# Игнорируем специфичные для Obsidian файлы и папки
+/.obsidian/workspace.json
+/.obsidian/plugins/*
+
+# Игнорируем временные файлы и кеш
+/.makemd/
+
+# Игнорируем все скрытые файлы и папки
+#.*/
+
+# Игнорируем лог-файлы
+#/Context/spacesLastSync.log
